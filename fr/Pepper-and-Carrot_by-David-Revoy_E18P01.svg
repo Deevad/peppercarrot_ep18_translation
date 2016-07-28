@@ -223,7 +223,7 @@
      inkscape:label="speechbubbles">
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;filter:url(#filter4386);enable-background:accumulate"
-       d="M 405.1722,534.35998 C 402.8789,458.04367 515.25313,434.19549 545.06668,429.42585 572.56275,415.54949 847.08219,428.11069 843.29034,523.77991 840.32927,598.48826 726.82559,624.6667 588.6404,620.21665 442.08914,615.49718 402.72962,565.52429 405.1722,534.35998 Z"
+       d="M 396.42611,534.35998 C 394.04778,458.04367 510.58864,434.19549 541.50763,429.42585 570.0232,415.54949 854.72134,428.11069 850.78889,523.77991 847.71803,598.48826 730.00584,624.6667 586.69699,620.21665 434.71187,615.49718 393.89296,565.52429 396.42611,534.35998 Z"
        id="path3145"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccssc" />
@@ -289,19 +289,19 @@
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
          x="623.07001"
-         y="507.10626"
+         y="504.60626"
          id="text4246"
          sodipodi:linespacing="125%"><tspan
            sodipodi:role="line"
            style="font-size:45px"
            x="623.07001"
-           y="507.10626"
+           y="504.60626"
            id="tspan4252">C'est bon,</tspan><tspan
            sodipodi:role="line"
            style="font-size:45px"
            x="623.07001"
-           y="563.35626"
-           id="tspan4144">tu peux regarder!</tspan></text>
+           y="560.85626"
+           id="tspan4144">tu peux regarder !</tspan></text>
     </g>
     <g
        inkscape:groupmode="layer"
@@ -356,7 +356,7 @@
            style="font-size:45px"
            x="463.51602"
            y="1286.1976"
-           id="tspan4342">d'Hippiah!</tspan></text>
+           id="tspan4342">d'Hippiah !</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
@@ -415,7 +415,7 @@
            style="font-size:45px"
            x="349.2814"
            y="2810.7334"
-           id="tspan4432">rien?...</tspan></text>
+           id="tspan4432">rien ?...</tspan></text>
       <path
          style="fill:#ffaaaa;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          d="m 234.00102,2705.9119 c -6.16611,-0.6043 -12.28289,-1.2282 -17.64595,-4.4763 -5.36306,-3.2479 -10.44782,-6.9343 -12.64824,-11.7348 -2.20042,-4.8005 -1.95875,-9.1873 0.49792,-12.6343 4.39147,-6.1618 11.06428,-7.0426 18.46462,-2.5465 0.50734,-8.0462 5.52625,-11.8792 11.88868,-11.5028 4.00868,0.2372 7.65038,1.8768 9.96626,6.0403 2.31589,4.1636 3.28269,10.0903 1.8717,16.6196 -1.41098,6.5293 -9.24073,15.5895 -12.39499,20.2348 z"

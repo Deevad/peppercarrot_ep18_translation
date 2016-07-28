@@ -261,7 +261,26 @@
            y="1061.6674" /></flowRegion><flowPara
          id="flowPara4218-5">&quot;Hippiah&quot;</flowPara><flowPara
          id="flowPara4204">subtle on the</flowPara><flowPara
-         id="flowPara4206">box</flowPara></flowRoot>  </g>
+         id="flowPara4206">box</flowPara></flowRoot>    <path
+       inkscape:connector-curvature="0"
+       id="path3446"
+       d="m 2768.2152,3391.1798 0,-189.0352 -203.8301,0 0,90.9805 -10,0 0,-15.6308 -30.9824,26.9824 30.9824,26.9804 0,-16.6171 10,0 0,76.3398 203.8301,0 z"
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.481;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffe680;fill-opacity:1;fill-rule:nonzero;stroke:#565656;stroke-width:1.20000005;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+    <flowRoot
+       transform="translate(2795.2978,2176.7105)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.3241539px;line-height:125%;font-family:Lavi;-inkscape-font-specification:'Lavi, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;opacity:0.481;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="flowRoot3448"
+       xml:space="preserve"><flowRegion
+         id="flowRegion3450"><rect
+           y="1061.6674"
+           x="-275.14545"
+           height="247.52747"
+           width="291.95547"
+           id="rect3452" /></flowRegion><flowPara
+         id="flowPara3465">Don't</flowPara><flowPara
+         id="flowPara3469">translate the</flowPara><flowPara
+         id="flowPara3471">names of the</flowPara><flowPara
+         id="flowPara3473">scenarios</flowPara></flowRoot>  </g>
   <g
      inkscape:groupmode="layer"
      id="layer3"
@@ -502,7 +521,7 @@
            style="font-size:45px;fill:#b17d62;fill-opacity:1"
            x="395.74911"
            y="340.39124"
-           id="tspan4238">toi et moi! </tspan></text>
+           id="tspan4238">toi et moi ! </tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#b17d62;fill-opacity:1;stroke:none"
@@ -523,13 +542,13 @@
            sodipodi:role="line"
            style="font-size:45px;fill:#b17d62;fill-opacity:1"
            x="387.7504"
-           y="537.31085"
+           y="537.31079"
            id="tspan4273">idée pour ton</tspan><tspan
            sodipodi:role="line"
            style="font-size:45px;fill:#b17d62;fill-opacity:1"
            x="395.66055"
-           y="593.56085"
-           id="tspan4277">nom! </tspan></text>
+           y="593.56079"
+           id="tspan4277">nom ! </tspan></text>
     </g>
     <g
        inkscape:groupmode="layer"
@@ -546,7 +565,7 @@
            style="font-size:45px"
            x="1447.7826"
            y="1466.145"
-           id="tspan4342-9">Alors, alors!</tspan><tspan
+           id="tspan4342-9">Alors, alors !</tspan><tspan
            sodipodi:role="line"
            style="font-size:45px"
            x="1455.6927"
@@ -641,7 +660,7 @@
            style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.5px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:middle;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;enable-background:accumulate"
            x="1242.8344"
            y="3313.4661"
-           id="tspan4252-9-9-2">Scénarios inspirés de deux scénarios proposés par Craig Maloney: &quot;You found me, I Choose You&quot; and &quot;Visit from Hippiah&quot;.</tspan></text>
+           id="tspan4252-9-9-2">Scénarios inspirés de deux scénarios proposés par Craig Maloney: &quot;You found me, I Choose You&quot; et &quot;Visit from Hippiah&quot;.</tspan></text>
       <text
          xml:space="preserve"
          style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.75px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:middle;display:inline;overflow:visible;visibility:visible;opacity:0.85500004;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;filter:url(#filter5546);enable-background:accumulate"
