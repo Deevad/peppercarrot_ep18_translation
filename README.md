@@ -14,12 +14,15 @@ License
 ## Translators and correctors:
 
 * English: Alex Gryson
+
 * French: David Revoy
 
 
-## Artwork:
+## Artwork & Scenario :
 
 * David Revoy, [www.peppercarrot.com](www.peppercarrot.com)
+
+Scenarios inspired by two scenarios proposed by Craig Maloney: "You found me, I Choose You" and "Visit from Hippiah".
 
 
 ## Downloads:

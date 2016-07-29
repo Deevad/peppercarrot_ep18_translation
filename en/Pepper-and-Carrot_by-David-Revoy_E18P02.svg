@@ -12,7 +12,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.5 r10040"
+   inkscape:version="0.91 r13725"
    width="2481"
    height="3503"
    sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E18P02.svg">
@@ -92,15 +92,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1600"
-     inkscape:window-height="837"
+     inkscape:window-width="1920"
+     inkscape:window-height="1042"
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.52421876"
-     inkscape:cx="1403.6788"
-     inkscape:cy="2567.7901"
+     inkscape:cx="287.44635"
+     inkscape:cy="2168.2349"
      inkscape:window-x="0"
-     inkscape:window-y="27"
+     inkscape:window-y="23"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer5" />
   <g
@@ -109,7 +109,7 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/home/alex/Documents/Code/Pepper_Carrot/peppercarrot_ep18_translation/en/../gfx_Pepper-and-Carrot_by-David-Revoy_E18P02.png"
+       sodipodi:absref="/home/deevad/peppercarrot/webcomics/New/lang/en/../gfx_Pepper-and-Carrot_by-David-Revoy_E18P02.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E18P02.png"
        y="0"
        x="0"
@@ -340,7 +340,7 @@
        id="path4546-6"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="csscc"
-       transform="matrix(0.9881556,0,0,0.89938396,-2.7708186,275.65215)" />
+       transform="matrix(1.0577834,0,0,0.89551622,-17.311548,286.21205)" />
     <path
        style="fill:#f2f8d1;fill-opacity:1;stroke:none"
        d="m 2113.8229,2752.3976 c 14.33,57.9847 -22.3574,94.4709 47.817,134.1546 -107.831,-35.326 -56.1664,-102.2768 -93.6599,-98.4722 -13.2287,2.1822 -45.0086,-5.8896 -34.155,-21.6777 26.8081,-3.8262 53.3118,-9.4557 79.9979,-14.0047 z"
@@ -349,7 +349,7 @@
        sodipodi:nodetypes="ccccc" />
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#f2f8d1;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
-       d="m 1850.9155,2749.6756 c 5.627,-50.4497 65.6557,-87.076 220.1588,-76.7951 82.7599,5.5066 176.7722,9.3201 169.4903,83.23 -7.2821,73.91 -142.4532,71.3232 -170.3912,72.9107 -63.2257,2.6456 -210.0529,5.637 -219.2579,-79.3456 z"
+       d="m 1856.1792,2749.3178 c -0.063,-39.7099 57.12,-68.539 211.6231,-60.4468 82.7599,4.3344 176.7722,7.336 169.4903,65.5118 -7.2821,58.1758 -142.4532,56.1397 -170.3912,57.3893 -63.2257,2.0824 -211.0013,1.5918 -210.7222,-62.4543 z"
        id="path4546-6-5"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="csscc" />
@@ -365,24 +365,24 @@
       <text
          sodipodi:linespacing="125%"
          id="text4178-6-5-9-0-7-0-4-8"
-         style="font-size:9.76241112px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:0.63300003;fill:#000000;fill-opacity:1;stroke:#552e22;stroke-width:3.56912017;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline;filter:url(#filter5236-4-16-6);font-family:Lavi;-inkscape-font-specification:Lavi"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.76241112px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:0.63300003;fill:#000000;fill-opacity:1;stroke:#552e22;stroke-width:3.56912017;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter5236-4-16-6)"
          xml:space="preserve"
          y="3129.8394"
          x="1318.7137"
-         transform="matrix(0.85154293,0.18970791,-0.20550775,0.80351798,-132.92095,-1675.2581)"><tspan
+         transform="matrix(0.9043445,0.18201027,-0.20486125,0.83222717,-204.56319,-1756.8524)"><tspan
            y="3129.8394"
            x="1320.59"
-           style="font-size:32.92485428px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:3.7524426px;fill:#000000;fill-opacity:1;stroke:#552e22;stroke-width:3.56912017;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Fondamento;-inkscape-font-specification:Fondamento"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32.92485428px;font-family:Fondamento;-inkscape-font-specification:Fondamento;letter-spacing:3.7524426px;fill:#000000;fill-opacity:1;stroke:#552e22;stroke-width:3.56912017;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            sodipodi:role="line"
            id="tspan4403">School of</tspan><tspan
            y="3170.9954"
            x="1320.59"
-           style="font-size:32.92485428px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:3.7524426px;fill:#000000;fill-opacity:1;stroke:#552e22;stroke-width:3.56912017;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Fondamento;-inkscape-font-specification:Fondamento"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32.92485428px;font-family:Fondamento;-inkscape-font-specification:Fondamento;letter-spacing:3.7524426px;fill:#000000;fill-opacity:1;stroke:#552e22;stroke-width:3.56912017;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            sodipodi:role="line"
            id="tspan4413">Hippiah</tspan><tspan
            y="3212.1516"
            x="1320.59"
-           style="font-size:32.92485428px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:3.7524426px;fill:#000000;fill-opacity:1;stroke:#552e22;stroke-width:3.56912017;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Fondamento;-inkscape-font-specification:Fondamento"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32.92485428px;font-family:Fondamento;-inkscape-font-specification:Fondamento;letter-spacing:3.7524426px;fill:#000000;fill-opacity:1;stroke:#552e22;stroke-width:3.56912017;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            sodipodi:role="line"
            id="tspan3643">Witchcraft</tspan></text>
       <use
@@ -390,7 +390,7 @@
          y="0"
          xlink:href="#text4178-6-5-9-0-7-0-4"
          id="use4439"
-         transform="matrix(0.17332253,0.08530708,0.05098025,0.22975965,950.10815,597.78631)"
+         transform="matrix(0.17332253,0.08530708,0.05098025,0.22975965,948.01954,596.95243)"
          width="100%"
          height="100%"
          style="filter:url(#filter4721)" />
@@ -402,16 +402,16 @@
       <text
          sodipodi:linespacing="125%"
          id="text4178-6-5-9-0-7-0-4"
-         style="font-size:9.76241112px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:0.63300003;fill:#b26b42;fill-opacity:1;stroke:#794230;stroke-width:3.56912017;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;filter:url(#filter5236-4-16);font-family:Lavi;-inkscape-font-specification:Lavi"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.76241112px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:0.63300003;fill:#b26b42;fill-opacity:1;stroke:#794230;stroke-width:3.56912017;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter5236-4-16)"
          xml:space="preserve"
          y="3129.8394"
          x="1318.7137"
-         transform="matrix(0.89592924,-0.05468707,-0.269409,1.0916354,431.16411,-1409.1938)"><tspan
+         transform="matrix(0.82759813,-0.04418685,-0.25777964,1.0253367,488.83193,-1216.0063)"><tspan
            y="3129.8394"
            x="1320.59"
-           style="font-size:40.67671585px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:3.7524426px;fill:#b26b42;fill-opacity:1;stroke:#794230;stroke-width:3.56912017;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Fondamento;-inkscape-font-specification:Fondamento"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.67671585px;font-family:Fondamento;-inkscape-font-specification:Fondamento;letter-spacing:3.7524426px;fill:#b26b42;fill-opacity:1;stroke:#794230;stroke-width:3.56912017;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            sodipodi:role="line"
-           id="tspan4725">Kitchens</tspan></text>
+           id="tspan4725">KITCHENS</tspan></text>
       <text
          xml:space="preserve"
          style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:54.99290848px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#b27f64;fill-opacity:1;fill-rule:nonzero;stroke:#b17d62;stroke-width:2.80699992;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate"
