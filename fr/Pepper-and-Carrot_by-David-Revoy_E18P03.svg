@@ -39,17 +39,17 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1119"
-     inkscape:window-height="737"
+     inkscape:window-width="1920"
+     inkscape:window-height="1042"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.2630065"
-     inkscape:cx="1168.4884"
-     inkscape:cy="636.40526"
-     inkscape:window-x="708"
-     inkscape:window-y="172"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="layer3" />
+     inkscape:zoom="0.30245747"
+     inkscape:cx="920.86406"
+     inkscape:cy="3556.8364"
+     inkscape:window-x="0"
+     inkscape:window-y="23"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer5" />
   <g
      inkscape:groupmode="layer"
      id="layer2"
@@ -58,11 +58,11 @@
     <image
        sodipodi:absref="/home/deevad/peppercarrot/webcomics/New/lang/fr/../gfx_Pepper-and-Carrot_by-David-Revoy_E18P03.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E18P03.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -87,7 +87,7 @@
        sodipodi:nodetypes="csssssc" />
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#f2f8d1;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
-       d="m 961.70413,278.01685 c 0,-39.81524 19.52222,-71.85149 81.23337,-75.58427 61.7113,-3.73264 240.4696,2.19206 267.5117,15.25644 27.0419,13.06444 38.0806,38.86136 37.4117,65.03667 -1.172,45.85425 -69.2801,59.99105 -130.9913,58.12473 -61.7112,-1.86639 -156.1283,3.71544 -189.4108,-5.61629 -33.28242,-9.33174 -62.98111,-25.48949 -65.75467,-57.21728 z"
+       d="m 945.84977,275.84294 c 0,-39.81524 20.10389,-71.85149 83.65373,-75.58427 63.5501,-3.73264 247.6345,2.19206 275.4824,15.25644 27.8476,13.06444 39.2152,38.86136 38.5263,65.03667 -1.2069,45.85425 -71.3443,59.99105 -134.8942,58.12473 -63.5499,-1.86639 -160.7802,3.71544 -195.0543,-5.61629 -34.27416,-9.33174 -64.85773,-25.48949 -67.71393,-57.21728 z"
        id="path3986-3"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="csssssc" />
@@ -199,15 +199,15 @@
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#b17d62;fill-opacity:1;stroke:none"
-         x="1162.6538"
-         y="285.41605"
+         x="1150.2001"
+         y="283.71255"
          id="text4246-6"
          sodipodi:linespacing="125%"><tspan
            sodipodi:role="line"
            style="font-size:45px;fill:#b17d62;fill-opacity:1"
-           x="1162.6538"
-           y="285.41605"
-           id="tspan4252-7">Mélisse, bien.</tspan></text>
+           x="1150.2001"
+           y="283.71255"
+           id="tspan4252-7">Camomille, bien.</tspan></text>
     </g>
     <g
        inkscape:groupmode="layer"
