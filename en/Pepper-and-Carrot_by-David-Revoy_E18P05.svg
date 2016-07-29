@@ -57,13 +57,13 @@
      inkscape:window-height="1042"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.60079525"
-     inkscape:cx="1195.3573"
-     inkscape:cy="57.613329"
+     inkscape:zoom="0.39503263"
+     inkscape:cx="857.8372"
+     inkscape:cy="1646.4207"
      inkscape:window-x="0"
      inkscape:window-y="23"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer3" />
+     inkscape:current-layer="layer9" />
   <g
      inkscape:groupmode="layer"
      id="layer2"
@@ -72,11 +72,11 @@
     <image
        sodipodi:absref="/home/deevad/peppercarrot/webcomics/New/lang/en/../gfx_Pepper-and-Carrot_by-David-Revoy_E18P05.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E18P05.png"
-       y="0"
-       x="0"
-       id="image10"
+       width="2481"
        height="3503"
-       width="2481" />
+       id="image10"
+       x="0"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -318,16 +318,16 @@
       <text
          sodipodi:linespacing="125%"
          id="text4178-6-5-9-0-7-0-4"
-         style="font-size:9.76241112px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:0.63300003;fill:#b26b42;fill-opacity:1;stroke:#794230;stroke-width:3.56912017;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline;filter:url(#filter5236-4-16);font-family:Lavi;-inkscape-font-specification:Lavi"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.76241112px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:0.63300003;fill:#b26b42;fill-opacity:1;stroke:#794230;stroke-width:3.56912017;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter5236-4-16)"
          xml:space="preserve"
          y="3129.8394"
          x="1318.7137"
-         transform="matrix(0.86194289,-0.04952251,-0.14842456,0.98854309,959.80754,-1406.2496)"><tspan
+         transform="matrix(0.78456513,-0.04671298,-0.13510029,0.9324606,1024.7357,-1237.7417)"><tspan
            y="3129.8394"
            x="1320.59"
-           style="font-size:40.67671585px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:3.7524426px;fill:#b26b42;fill-opacity:1;stroke:#794230;stroke-width:3.56912017;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Fondamento;-inkscape-font-specification:Fondamento"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.67671585px;font-family:Fondamento;-inkscape-font-specification:Fondamento;letter-spacing:3.7524426px;fill:#b26b42;fill-opacity:1;stroke:#794230;stroke-width:3.56912017;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            sodipodi:role="line"
-           id="tspan4725">Kitchens</tspan></text>
+           id="tspan4725">KITCHENS</tspan></text>
     </g>
   </g>
 </svg>

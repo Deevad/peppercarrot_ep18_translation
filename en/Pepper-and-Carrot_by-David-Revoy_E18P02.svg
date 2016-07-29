@@ -96,13 +96,13 @@
      inkscape:window-height="1042"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.26062937"
-     inkscape:cx="1171.8873"
-     inkscape:cy="1360.1067"
+     inkscape:zoom="0.52421876"
+     inkscape:cx="287.44635"
+     inkscape:cy="2168.2349"
      inkscape:window-x="0"
      inkscape:window-y="23"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer3" />
+     inkscape:current-layer="layer5" />
   <g
      inkscape:groupmode="layer"
      id="layer2"
@@ -111,11 +111,11 @@
     <image
        sodipodi:absref="/home/deevad/peppercarrot/webcomics/New/lang/en/../gfx_Pepper-and-Carrot_by-David-Revoy_E18P02.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E18P02.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -365,24 +365,24 @@
       <text
          sodipodi:linespacing="125%"
          id="text4178-6-5-9-0-7-0-4-8"
-         style="font-size:9.76241112px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:0.63300003;fill:#000000;fill-opacity:1;stroke:#552e22;stroke-width:3.56912017;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline;filter:url(#filter5236-4-16-6);font-family:Lavi;-inkscape-font-specification:Lavi"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.76241112px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:0.63300003;fill:#000000;fill-opacity:1;stroke:#552e22;stroke-width:3.56912017;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter5236-4-16-6)"
          xml:space="preserve"
          y="3129.8394"
          x="1318.7137"
-         transform="matrix(0.85154293,0.18970791,-0.20550775,0.80351798,-132.92095,-1675.2581)"><tspan
+         transform="matrix(0.9043445,0.18201027,-0.20486125,0.83222717,-204.56319,-1756.8524)"><tspan
            y="3129.8394"
            x="1320.59"
-           style="font-size:32.92485428px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:3.7524426px;fill:#000000;fill-opacity:1;stroke:#552e22;stroke-width:3.56912017;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Fondamento;-inkscape-font-specification:Fondamento"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32.92485428px;font-family:Fondamento;-inkscape-font-specification:Fondamento;letter-spacing:3.7524426px;fill:#000000;fill-opacity:1;stroke:#552e22;stroke-width:3.56912017;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            sodipodi:role="line"
            id="tspan4403">School of</tspan><tspan
            y="3170.9954"
            x="1320.59"
-           style="font-size:32.92485428px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:3.7524426px;fill:#000000;fill-opacity:1;stroke:#552e22;stroke-width:3.56912017;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Fondamento;-inkscape-font-specification:Fondamento"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32.92485428px;font-family:Fondamento;-inkscape-font-specification:Fondamento;letter-spacing:3.7524426px;fill:#000000;fill-opacity:1;stroke:#552e22;stroke-width:3.56912017;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            sodipodi:role="line"
            id="tspan4413">Hippiah</tspan><tspan
            y="3212.1516"
            x="1320.59"
-           style="font-size:32.92485428px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:3.7524426px;fill:#000000;fill-opacity:1;stroke:#552e22;stroke-width:3.56912017;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Fondamento;-inkscape-font-specification:Fondamento"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32.92485428px;font-family:Fondamento;-inkscape-font-specification:Fondamento;letter-spacing:3.7524426px;fill:#000000;fill-opacity:1;stroke:#552e22;stroke-width:3.56912017;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            sodipodi:role="line"
            id="tspan3643">Witchcraft</tspan></text>
       <use
@@ -390,7 +390,7 @@
          y="0"
          xlink:href="#text4178-6-5-9-0-7-0-4"
          id="use4439"
-         transform="matrix(0.17332253,0.08530708,0.05098025,0.22975965,950.10815,597.78631)"
+         transform="matrix(0.17332253,0.08530708,0.05098025,0.22975965,948.01954,596.95243)"
          width="100%"
          height="100%"
          style="filter:url(#filter4721)" />
@@ -402,16 +402,16 @@
       <text
          sodipodi:linespacing="125%"
          id="text4178-6-5-9-0-7-0-4"
-         style="font-size:9.76241112px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:0.63300003;fill:#b26b42;fill-opacity:1;stroke:#794230;stroke-width:3.56912017;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;filter:url(#filter5236-4-16);font-family:Lavi;-inkscape-font-specification:Lavi"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.76241112px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:0.63300003;fill:#b26b42;fill-opacity:1;stroke:#794230;stroke-width:3.56912017;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter5236-4-16)"
          xml:space="preserve"
          y="3129.8394"
          x="1318.7137"
-         transform="matrix(0.89592924,-0.05468707,-0.269409,1.0916354,431.16411,-1409.1938)"><tspan
+         transform="matrix(0.82759813,-0.04418685,-0.25777964,1.0253367,488.83193,-1216.0063)"><tspan
            y="3129.8394"
            x="1320.59"
-           style="font-size:40.67671585px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:3.7524426px;fill:#b26b42;fill-opacity:1;stroke:#794230;stroke-width:3.56912017;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Fondamento;-inkscape-font-specification:Fondamento"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.67671585px;font-family:Fondamento;-inkscape-font-specification:Fondamento;letter-spacing:3.7524426px;fill:#b26b42;fill-opacity:1;stroke:#794230;stroke-width:3.56912017;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            sodipodi:role="line"
-           id="tspan4725">Kitchens</tspan></text>
+           id="tspan4725">KITCHENS</tspan></text>
       <text
          xml:space="preserve"
          style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:54.99290848px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#b27f64;fill-opacity:1;fill-rule:nonzero;stroke:#b17d62;stroke-width:2.80699992;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate"
