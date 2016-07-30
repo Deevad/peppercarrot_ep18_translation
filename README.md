@@ -17,6 +17,8 @@ License
 
 * French: David Revoy
 
+* Greek: George Karettas
+
 
 ## Artwork & Scenario :
 
