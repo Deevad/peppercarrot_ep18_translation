@@ -19,6 +19,8 @@ License
 
 * Greek: George Karettas
 
+* Indonesian: Bonaventura Aditya Perdana
+
 
 ## Artwork & Scenario :
 
