@@ -12,7 +12,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.48.5 r10040"
    width="2481"
    height="3503"
    sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E18P06.svg">
@@ -94,15 +94,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1042"
+     inkscape:window-width="1680"
+     inkscape:window-height="980"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.52900002"
-     inkscape:cx="1441.1532"
-     inkscape:cy="2733.4067"
-     inkscape:window-x="1920"
-     inkscape:window-y="23"
+     inkscape:zoom="0.45584241"
+     inkscape:cx="1249.3653"
+     inkscape:cy="2828.4848"
+     inkscape:window-x="0"
+     inkscape:window-y="1"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer6" />
   <g
@@ -111,7 +111,7 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/home/deevad/peppercarrot/webcomics/New/lang/fr/../gfx_Pepper-and-Carrot_by-David-Revoy_E18P06.png"
+       sodipodi:absref="/Users/gand/Documents/Pepper&amp;Carrot/peppercarrot_ep18_translation/it/../gfx_Pepper-and-Carrot_by-David-Revoy_E18P06.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E18P06.png"
        width="2481"
        height="3503"
@@ -137,8 +137,8 @@
        inkscape:transform-center-y="-10.330869"
        sodipodi:nodetypes="ccsc" />
     <path
-       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#f2f8d1;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
-       d="m 858.7551,3358.4346 c -42.59533,0.4776 -77.87784,-8.0193 -94.82163,-30.3713 -16.94371,-22.352 -20.52295,-51.9926 1.02098,-67.5088 21.54386,-15.516 60.90538,-30.9102 98.03692,-30.3298 37.13152,0.5805 87.90289,11.5554 103.83765,32.536 15.93477,20.9805 22.46554,54.0566 -13.75038,76.1949 -36.71813,22.4453 -94.32354,19.479 -94.32354,19.479 z"
+       style="color:#000000;fill:#f2f8d1;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 850.56567,3358.4403 c -41.13313,0.4565 -75.20449,-7.6637 -91.56664,-29.0248 -16.36209,-21.361 -19.81845,-49.6875 0.98592,-64.5159 20.80433,-14.8281 58.81468,-29.5398 94.67159,-28.9851 35.85689,0.5547 84.8854,11.0431 100.27316,31.0935 15.38775,20.0504 21.6944,51.6601 -13.27836,72.8169 -35.4577,21.4502 -91.08567,18.6154 -91.08567,18.6154 z"
        id="path3970"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="csssssc" />
@@ -153,7 +153,7 @@
        inkscape:label="frame02">
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.80657005px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;letter-spacing:0px;word-spacing:0px;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.99236238;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4375-4-1-1-1-9)"
+         style="font-size:17.80657005px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;filter:url(#filter4375-4-1-1-1-9);font-family:Lavi;-inkscape-font-specification:Lavi"
          x="787.65729"
          y="1584.5073"
          id="text4580"
@@ -165,7 +165,7 @@
            y="1584.5073"
            style="font-size:70px;fill:#ffffff;stroke:none"><tspan
              style="font-size:80.40014648px;stroke:none"
-             id="tspan4617">swiiip !</tspan></tspan></text>
+             id="tspan4617">swiish !</tspan></tspan></text>
     </g>
     <g
        inkscape:groupmode="layer"
@@ -173,7 +173,7 @@
        inkscape:label="frame03">
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.80657005px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;letter-spacing:0px;word-spacing:0px;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.99236238;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4375-4-1-1-1-9-3)"
+         style="font-size:17.80657005px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;filter:url(#filter4375-4-1-1-1-9-3);font-family:Lavi;-inkscape-font-specification:Lavi"
          x="787.65729"
          y="1584.5073"
          id="text4580-5"
@@ -185,7 +185,7 @@
            y="1584.5073"
            style="font-size:70px;fill:#ffffff;stroke:none"><tspan
              style="font-size:80.40014648px;stroke:none"
-             id="tspan4617-2">poum !</tspan></tspan></text>
+             id="tspan4617-2">Clomp !</tspan></tspan></text>
     </g>
     <g
        inkscape:groupmode="layer"
@@ -193,16 +193,16 @@
        inkscape:label="frame05">
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#b27f64;fill-opacity:1;stroke:none"
-         x="861.72791"
-         y="3309.4692"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#b27f64;fill-opacity:1;stroke:none;font-family:Lavi;-inkscape-font-specification:Lavi"
+         x="856.90253"
+         y="3312.4177"
          id="text4246"
          sodipodi:linespacing="125%"><tspan
            sodipodi:role="line"
            style="font-size:45px;fill:#b27f64;fill-opacity:1"
-           x="861.72791"
-           y="3309.4692"
-           id="tspan4252">Hi hi hi !</tspan></text>
+           x="856.90253"
+           y="3312.4177"
+           id="tspan4252">Hi hi hi!</tspan></text>
     </g>
   </g>
 </svg>
