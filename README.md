@@ -19,6 +19,8 @@ License
 
 * Greek: George Karettas
 
+* Swedish: Mikael Olofsson
+
 
 ## Artwork & Scenario :
 
