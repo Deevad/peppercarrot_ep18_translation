@@ -25,6 +25,7 @@ License
 
 * Polish: Sölve Svartskogen
 
+* Swedish: Mikael Olofsson
 
 ## Artwork & Scenario :
 
