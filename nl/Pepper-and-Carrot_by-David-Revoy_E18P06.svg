@@ -94,30 +94,30 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1680"
-     inkscape:window-height="1033"
+     inkscape:window-width="1600"
+     inkscape:window-height="826"
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.3478261"
-     inkscape:cx="946.65138"
-     inkscape:cy="1164.5825"
-     inkscape:window-x="1920"
+     inkscape:cx="896.33888"
+     inkscape:cy="589.58252"
+     inkscape:window-x="1280"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer3" />
+     inkscape:current-layer="layer5" />
   <g
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/home/deevad/peppercarrot/webcomics/New/lang/fr/../gfx_Pepper-and-Carrot_by-David-Revoy_E18P06.png"
+       sodipodi:absref="/home/willem/Git/peppercarrot_ep18_translation/nl/../gfx_Pepper-and-Carrot_by-David-Revoy_E18P06.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E18P06.png"
-       y="0"
-       x="0"
-       id="image10"
+       width="2481"
        height="3503"
-       width="2481" />
+       id="image10"
+       x="0"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -163,9 +163,9 @@
            id="tspan4582"
            x="787.65729"
            y="1584.5073"
-           style="font-size:70px;fill:#ffffff;stroke:none"><tspan
-             style="font-size:80.40014648px;stroke:none"
-             id="tspan4617">swiiip !</tspan></tspan></text>
+           style="font-size:70px;fill:#ffffff;stroke:none">Roetsj!<tspan
+   style="font-size:80.40014648px;stroke:none"
+   id="tspan4617" /></tspan></text>
     </g>
     <g
        inkscape:groupmode="layer"
@@ -185,7 +185,7 @@
            y="1584.5073"
            style="font-size:70px;fill:#ffffff;stroke:none"><tspan
              style="font-size:80.40014648px;stroke:none"
-             id="tspan4617-2">Bam !</tspan></tspan></text>
+             id="tspan4617-2">Pof!</tspan></tspan></text>
     </g>
     <g
        inkscape:groupmode="layer"
@@ -202,7 +202,7 @@
            style="font-size:45px;fill:#b27f64;fill-opacity:1"
            x="861.72791"
            y="3309.4692"
-           id="tspan4252">Hi hi hi !</tspan></text>
+           id="tspan4252">Hi hi hi!</tspan></text>
     </g>
   </g>
 </svg>

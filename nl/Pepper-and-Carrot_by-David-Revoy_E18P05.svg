@@ -53,30 +53,30 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1042"
+     inkscape:window-width="1600"
+     inkscape:window-height="826"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.46000001"
-     inkscape:cx="1482.95"
-     inkscape:cy="2156.2296"
-     inkscape:window-x="1920"
-     inkscape:window-y="23"
+     inkscape:zoom="0.23000001"
+     inkscape:cx="1096.7379"
+     inkscape:cy="1844.7803"
+     inkscape:window-x="1280"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" />
+     inkscape:current-layer="layer3" />
   <g
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/home/deevad/peppercarrot/webcomics/New/lang/fr/../gfx_Pepper-and-Carrot_by-David-Revoy_E18P05.png"
+       sodipodi:absref="/home/willem/Git/peppercarrot_ep18_translation/nl/../gfx_Pepper-and-Carrot_by-David-Revoy_E18P05.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E18P05.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -119,7 +119,7 @@
        sodipodi:nodetypes="zsssssz" />
     <path
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#f2f8d1;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
-       d="m 224.03484,212.31783 c 39.04705,-52.12843 255.19534,-29.52255 328.39868,-23.66144 82.33999,6.59265 104.90603,35.14417 110.14442,75.2815 1.84317,14.12262 9.44216,73.37245 -38.38139,96.06726 -72.6578,34.47997 -151.8395,23.11739 -187.99263,23.11739 -36.153,0 -136.93773,3.57257 -185.49637,-24.46498 -46.53608,-26.86974 -65.71993,-94.21143 -26.67271,-146.33973 z"
+       d="m 224.03484,214.08808 c 39.04705,-54.87662 255.19534,-31.07897 328.39868,-24.90886 82.33999,6.94021 104.90603,36.99696 110.14442,79.25032 1.84317,14.86716 9.44216,77.24062 -38.38139,101.1319 -72.6578,36.29774 -151.8395,24.33613 -187.99263,24.33613 -36.153,0 -136.93773,3.76091 -185.49637,-25.75477 -46.53608,-28.2863 -65.71993,-99.17823 -26.67271,-154.05472 z"
        id="path3330"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="zsssssz" />
@@ -131,19 +131,19 @@
        sodipodi:nodetypes="csssscssssssc" />
     <path
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#f2f8d1;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
-       d="m 1360.4325,177.13809 c 39.2312,-55.98186 244.1733,-41.98714 316.9036,-29.63438 91.4238,15.5277 99.2278,32.63174 117.1855,72.3987 6.3158,13.98623 16.0083,80.9082 -32.0407,105.28064 -73.0004,37.02879 -167.7727,33.274 -204.0964,33.274 -36.3234,0 -133.2355,-0.38719 -182.0231,-30.49734 -46.7555,-28.856 -55.1601,-94.83991 -15.9289,-150.82162 z"
+       d="m 1352.7466,170.98934 c 44.6113,-50.6017 248.6896,-36.28964 322.2837,-31.17157 90.6552,6.30457 119.5502,13.70369 136.4004,53.95243 13.7274,32.78959 1.3887,85.77317 -53.5614,125.2641 -69.4895,49.94001 -163.1611,39.42275 -199.4848,39.42275 -36.3234,0 -110.9463,4.99297 -159.7339,-25.11718 -46.7555,-28.856 -90.5154,-111.74883 -45.904,-162.35053 z"
        id="path3330-5"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="zsssssz" />
     <path
        style="fill:#f2f8d1;fill-opacity:1;stroke:none"
-       d="m 1343.72,860.27913 c -40.7355,11.72426 -66.8124,25.55823 -60.6185,34.97431 6.1938,9.41623 10.2043,26.01727 5.0182,34.41919 -5.1857,8.40168 -10.4085,15.28828 -20.5156,22.10516 -10.1071,6.81699 -8.1501,25.84776 -11.1359,33.80466 -2.7383,7.2969 -11.8588,32.98475 -11.8588,32.98475 0,0 -28.5188,-19.40775 -33.0722,-28.29565 -4.5537,-8.8877 -8.3673,2.8901 -8.4884,-1.4652 -0.1208,-4.3556 6.3155,-16.73659 15.0693,-25.04973 8.7537,-8.31306 17.0962,-19.4788 25.2084,-25.19623 8.1127,-5.71745 27.2483,-16.05378 25.2988,-24.63314 -1.9496,-8.57919 -4.6563,-23.29938 3.1377,-34.08933 10.8297,-14.99292 71.957,-19.55879 71.957,-19.55879 z"
+       d="m 1348.0678,860.27913 c -40.7355,11.72426 -66.8124,25.55823 -60.6185,34.97431 6.1938,9.41623 10.2043,26.01727 5.0182,34.41919 -5.1857,8.40168 -10.4085,15.28828 -20.5156,22.10516 -10.1071,6.81699 -8.1501,25.84776 -11.1359,33.80466 -2.7383,7.2969 -11.8588,32.98475 -11.8588,32.98475 0,0 -28.5188,-19.40775 -33.0722,-28.29565 -4.5537,-8.8877 -8.3673,2.8901 -8.4884,-1.4652 -0.1208,-4.3556 6.3155,-16.73659 15.0693,-25.04973 8.7537,-8.31306 17.0962,-19.4788 25.2084,-25.19623 8.1127,-5.71745 27.2483,-16.05378 25.2988,-24.63314 -1.9496,-8.57919 -4.6563,-23.29938 3.1377,-34.08933 10.8297,-14.99292 71.957,-19.55879 71.957,-19.55879 z"
        id="path3023-2-7"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="csssscssssssc" />
     <path
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#f2f8d1;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
-       d="m 912.77183,969.75076 c 36.10164,-55.97591 235.94487,-43.59053 303.62637,-37.29683 76.1286,7.07923 96.9924,49.62707 101.8357,92.72677 1.7041,15.165 8.7299,78.788 -35.4861,103.1578 -67.177,37.0248 -140.3856,24.8236 -173.8116,24.8236 -33.4258,0 -126.60794,3.8363 -171.50364,-26.2707 -43.02571,-28.8529 -60.76236,-101.1649 -24.66073,-157.14064 z"
+       d="m 873.05433,987.77185 c 43.09719,-42.65424 281.66467,-33.21644 362.46107,-28.42057 90.8802,5.39446 115.7869,37.81637 121.5687,70.65892 2.0343,11.5559 10.4215,60.0373 -42.3624,78.6074 -80.194,28.2133 -167.5886,18.9159 -207.4917,18.9159 -39.9028,0 -151.14105,2.9233 -204.73634,-20.0186 -51.36295,-21.9863 -72.5365,-77.0888 -29.43933,-119.74305 z"
        id="path3330-5-2"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="zsssssz" />
@@ -167,7 +167,7 @@
        sodipodi:nodetypes="zsssssz" />
     <path
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#f2f8d1;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
-       d="m 504.4992,1672.3835 c 33.07055,-38.5555 216.13496,-30.0246 278.13393,-25.6896 69.73682,4.8761 88.84891,34.1827 93.28559,63.8691 1.56099,10.4456 7.99691,54.2681 -32.50672,71.0537 -61.53683,25.5022 -128.59883,17.0985 -159.21838,17.0985 -30.61938,0 -115.97794,2.6422 -157.10421,-18.095 -39.41326,-19.8735 -55.66075,-69.6811 -22.59021,-108.2367 z"
+       d="m 523.61819,1672.3835 c 28.19669,-38.5555 184.28161,-30.0246 237.14333,-25.6896 59.45922,4.8761 75.75463,34.1827 79.53743,63.8691 1.33095,10.4456 6.81835,54.2681 -27.71597,71.0537 -52.4677,25.5022 -109.6463,17.0985 -135.75323,17.0985 -26.10678,0 -98.88544,2.6422 -133.95064,-18.095 -33.60464,-19.8735 -47.45763,-69.6811 -19.26092,-108.2367 z"
        id="path3330-5-2-0-8-2"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="zsssssz" />
@@ -192,29 +192,29 @@
            style="font-size:43.52605057px;fill:#b17d62;fill-opacity:1;stroke:#b17d62;stroke-width:0.96724564;stroke-opacity:1"
            x="275.07883"
            y="175.99283"
-           id="tspan4272">Heum Heum...</tspan></text>
+           id="tspan4272">Ahum ...</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#b17d62;fill-opacity:1;stroke:none;stroke-opacity:1"
          x="445.52319"
-         y="246.46317"
+         y="250.81099"
          id="text4246-7-7"
          sodipodi:linespacing="125%"><tspan
            sodipodi:role="line"
            style="font-size:45px;fill:#b17d62;fill-opacity:1;stroke:none;stroke-opacity:1"
            x="445.52319"
-           y="246.46317"
-           id="tspan4198">Si vous voulez,</tspan><tspan
+           y="250.81099"
+           id="tspan5762">Als u wilt, kunnen</tspan><tspan
            sodipodi:role="line"
            style="font-size:45px;fill:#b17d62;fill-opacity:1;stroke:none;stroke-opacity:1"
            x="445.52319"
-           y="302.71317"
-           id="tspan4282">on peut s'occuper</tspan><tspan
+           y="307.06097"
+           id="tspan5766">wij haar onder onze</tspan><tspan
            sodipodi:role="line"
            style="font-size:45px;fill:#b17d62;fill-opacity:1;stroke:none;stroke-opacity:1"
            x="445.52319"
-           y="358.96317"
-           id="tspan4284">d'elle...</tspan></text>
+           y="363.31097"
+           id="tspan5776">hoede nemen ...</tspan></text>
     </g>
     <g
        inkscape:groupmode="layer"
@@ -231,39 +231,34 @@
            style="font-size:45px;fill:#b17d62;fill-opacity:1;stroke:none;stroke-opacity:1"
            x="1572.9677"
            y="210.59818"
-           id="tspan4198-1">On recherche</tspan><tspan
+           id="tspan4179">We zijn juist op zoek</tspan><tspan
            sodipodi:role="line"
            style="font-size:45px;fill:#b17d62;fill-opacity:1;stroke:none;stroke-opacity:1"
            x="1572.9677"
-           y="266.84814"
-           id="tspan4293">justement une élève</tspan><tspan
+           y="266.84818"
+           id="tspan5783">naar een student</tspan><tspan
            sodipodi:role="line"
            style="font-size:45px;fill:#b17d62;fill-opacity:1;stroke:none;stroke-opacity:1"
            x="1572.9677"
-           y="323.09814"
-           id="tspan4179"> à Chaosah...</tspan></text>
+           y="323.09818"
+           id="tspan5785">voor Chaosah ...</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#b17d62;fill-opacity:1;stroke:none;stroke-opacity:1"
-         x="1105.2504"
-         y="998.72797"
+         x="1103.0764"
+         y="1026.9889"
          id="text4246-7-7-6-0"
          sodipodi:linespacing="125%"><tspan
            sodipodi:role="line"
            style="font-size:45px;fill:#b17d62;fill-opacity:1;stroke:none;stroke-opacity:1"
-           x="1105.2504"
-           y="998.72797"
-           id="tspan4293-6">... et celle-ci</tspan><tspan
+           x="1103.0764"
+           y="1026.9889"
+           id="tspan4332">... en zij daar lijkt me</tspan><tspan
            sodipodi:role="line"
            style="font-size:45px;fill:#b17d62;fill-opacity:1;stroke:none;stroke-opacity:1"
-           x="1105.2504"
-           y="1054.978"
-           id="tspan4330">semble être la</tspan><tspan
-           sodipodi:role="line"
-           style="font-size:45px;fill:#b17d62;fill-opacity:1;stroke:none;stroke-opacity:1"
-           x="1105.2504"
-           y="1111.228"
-           id="tspan4332">candidate idéale.</tspan></text>
+           x="1103.0764"
+           y="1083.2389"
+           id="tspan5792">de ideale kandidaat.</tspan></text>
     </g>
     <g
        inkscape:groupmode="layer"
@@ -280,7 +275,7 @@
            style="font-size:33.24675751px;fill:#b17d62;fill-opacity:1;stroke:none;stroke-opacity:1"
            x="504.19281"
            y="1568.0043"
-           id="tspan4332-1">Cayenne ?!</tspan></text>
+           id="tspan4332-1">Cayenne?!</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.38865089px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#b17d62;fill-opacity:1;stroke:none;stroke-opacity:1"
@@ -292,7 +287,7 @@
            style="font-size:31.45743942px;fill:#b17d62;fill-opacity:1;stroke:none;stroke-opacity:1"
            x="581.92603"
            y="1630.1206"
-           id="tspan4332-1-9">Thym ?! Cumin ?!</tspan></text>
+           id="tspan4332-1-9">Thym?! Cumin?!</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.38865089px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#b17d62;fill-opacity:1;stroke:none;stroke-opacity:1"
@@ -301,20 +296,20 @@
          id="text4246-7-7-6-0-6-7-0"
          sodipodi:linespacing="125%"><tspan
            sodipodi:role="line"
-           style="font-size:31.45743942px;fill:#b17d62;fill-opacity:1;stroke:none;stroke-opacity:1"
+           style="font-weight:bold;font-size:31.45743942px;fill:#b17d62;fill-opacity:1;stroke:none;stroke-opacity:1"
            x="677.60773"
            y="1689.8"
-           id="tspan4432">Mais je croyais</tspan><tspan
+           id="tspan4492">Maar ik dacht</tspan><tspan
            sodipodi:role="line"
-           style="font-size:31.45743942px;fill:#b17d62;fill-opacity:1;stroke:none;stroke-opacity:1"
+           style="font-weight:bold;font-size:31.45743942px;fill:#b17d62;fill-opacity:1;stroke:none;stroke-opacity:1"
            x="677.60773"
            y="1729.1218"
-           id="tspan4482">que vous étiez toutes...</tspan><tspan
+           id="tspan5801">dat jullie allemaal ...</tspan><tspan
            sodipodi:role="line"
-           style="font-size:31.45743942px;fill:#b17d62;fill-opacity:1;stroke:none;stroke-opacity:1"
+           style="font-weight:bold;font-size:31.45743942px;fill:#b17d62;fill-opacity:1;stroke:none;stroke-opacity:1"
            x="677.60773"
            y="1768.4436"
-           id="tspan4492">... c'est impossible !</tspan></text>
+           id="tspan5799">dat kan niet!</tspan></text>
       <text
          sodipodi:linespacing="125%"
          id="text4178-6-5-9-0-7-0-4"
@@ -322,12 +317,12 @@
          xml:space="preserve"
          y="3129.8394"
          x="1318.7137"
-         transform="matrix(0.86194289,-0.04952251,-0.14842456,0.98854309,959.80754,-1406.2496)"><tspan
+         transform="matrix(0.77490076,-0.07648399,-0.09950316,0.996259,925.97213,-1397.4533)"><tspan
            y="3129.8394"
            x="1320.59"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.67671585px;font-family:Fondamento;-inkscape-font-specification:Fondamento;letter-spacing:3.7524426px;fill:#b26b42;fill-opacity:1;stroke:#794230;stroke-width:3.56912017;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            sodipodi:role="line"
-           id="tspan4725">CUISINES</tspan></text>
+           id="tspan4725">KEUKENS</tspan></text>
     </g>
   </g>
 </svg>
