@@ -27,6 +27,8 @@ License
 
 * Swedish: Mikael Olofsson
 
+* Mexicano: RJ Quiralta
+
 ## Artwork & Scenario :
 
 * David Revoy, [www.peppercarrot.com](www.peppercarrot.com)
