@@ -29,6 +29,8 @@ License
 
 * Mexicano: RJ Quiralta
 
+* German: Philipp (hapit) Hemmer
+
 ## Artwork & Scenario :
 
 * David Revoy, [www.peppercarrot.com](www.peppercarrot.com)

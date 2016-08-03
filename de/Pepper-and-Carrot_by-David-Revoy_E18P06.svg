@@ -95,24 +95,24 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1042"
+     inkscape:window-height="1017"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.45584241"
-     inkscape:cx="1161.6157"
-     inkscape:cy="2828.4848"
-     inkscape:window-x="0"
-     inkscape:window-y="23"
+     inkscape:zoom="0.64465852"
+     inkscape:cx="1314.2082"
+     inkscape:cy="368.43164"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer3" />
+     inkscape:current-layer="layer7" />
   <g
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/home/deevad/peppercarrot/webcomics/New/lang/en/../gfx_Pepper-and-Carrot_by-David-Revoy_E18P06.png"
-       xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E18P06.png"
+       sodipodi:absref="C:\work\git\peppercarrot_ep18_translation\de\..\gfx_Pepper-and-Carrot_by-David-Revoy_E18P06.png"
+       xlink:href="..\gfx_Pepper-and-Carrot_by-David-Revoy_E18P06.png"
        y="0"
        x="0"
        id="image10"
@@ -165,7 +165,7 @@
            y="1584.5073"
            style="font-size:70px;fill:#ffffff;stroke:none"><tspan
              style="font-size:80.40014648px;stroke:none"
-             id="tspan4617">swiiip !</tspan></tspan></text>
+             id="tspan4617">wuschhh !</tspan></tspan></text>
     </g>
     <g
        inkscape:groupmode="layer"
@@ -202,7 +202,7 @@
            style="font-size:45px;fill:#b27f64;fill-opacity:1"
            x="856.90253"
            y="3312.4177"
-           id="tspan4252">Hee hee hee!</tspan></text>
+           id="tspan3360">Hii hii hi!</tspan></text>
     </g>
   </g>
 </svg>

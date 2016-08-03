@@ -167,16 +167,16 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1042"
+     inkscape:window-height="1017"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.277753"
-     inkscape:cx="611.92259"
-     inkscape:cy="1605.6339"
-     inkscape:window-x="0"
-     inkscape:window-y="23"
+     inkscape:zoom="0.7746422"
+     inkscape:cx="1238.8809"
+     inkscape:cy="619.92373"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="layer7"
      showguides="false" />
   <g
      inkscape:groupmode="layer"
@@ -184,13 +184,13 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/home/deevad/peppercarrot/webcomics/New/lang/en/../gfx_Pepper-and-Carrot_by-David-Revoy_E18P01.png"
-       xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E18P01.png"
-       y="0"
-       x="0"
-       id="image10"
+       sodipodi:absref="C:\work\git\peppercarrot_ep18_translation\de\..\gfx_Pepper-and-Carrot_by-David-Revoy_E18P01.png"
+       xlink:href="..\gfx_Pepper-and-Carrot_by-David-Revoy_E18P01.png"
+       width="2481"
        height="3503"
-       width="2481" />
+       id="image10"
+       x="0"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -280,28 +280,28 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.05346298px;font-family:Fondamento;-inkscape-font-specification:Fondamento;fill:#756b4a;fill-opacity:1;stroke:#756b4a;stroke-width:1.2107898;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          x="2176.2036"
          y="1681.5674"
-         id="tspan4342-8">HIPPIAH</tspan></text>
+         id="tspan4342-8">HIPPIĀH</tspan></text>
     <g
        inkscape:groupmode="layer"
        id="layer5"
        inkscape:label="frame01">
       <text
          xml:space="preserve"
-         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Lavi;-inkscape-font-specification:Lavi"
-         x="623.07001"
-         y="504.60626"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+         x="619.07001"
+         y="518.60626"
          id="text4246"
          sodipodi:linespacing="125%"><tspan
            sodipodi:role="line"
            style="font-size:45px"
-           x="623.07001"
-           y="504.60626"
-           id="tspan4252">OK,</tspan><tspan
+           x="626.98016"
+           y="518.60626"
+           id="tspan4144">OK, du kannst </tspan><tspan
            sodipodi:role="line"
            style="font-size:45px"
-           x="623.07001"
-           y="560.85626"
-           id="tspan4144">you can look now!</tspan></text>
+           x="619.07001"
+           y="574.85626"
+           id="tspan3401">jetzt schauen!</tspan></text>
     </g>
     <g
        inkscape:groupmode="layer"
@@ -342,7 +342,7 @@
          inkscape:connector-curvature="0" />
       <text
          xml:space="preserve"
-         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Lavi;-inkscape-font-specification:Lavi"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
          x="459.51602"
          y="1245.9476"
          id="text4246-7"
@@ -351,10 +351,10 @@
            style="font-size:45px"
            x="459.51602"
            y="1245.9476"
-           id="tspan4342">A Hippiah witch's robes!</tspan></text>
+           id="tspan4342">Eine Hippiāh Hexenrobe!</tspan></text>
       <text
          xml:space="preserve"
-         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Lavi;-inkscape-font-specification:Lavi"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
          x="642.27008"
          y="1367.3761"
          id="text4246-7-0"
@@ -363,22 +363,22 @@
            style="font-size:45px"
            x="642.27008"
            y="1367.3761"
-           id="tspan3660">It's all they had left</tspan><tspan
+           id="tspan3409">Sie hatte keine Anderen</tspan><tspan
            sodipodi:role="line"
            style="font-size:45px"
-           x="642.27008"
+           x="650.18024"
            y="1423.6261"
-           id="tspan3658">in the shop, so I took it</tspan><tspan
+           id="tspan3670">mehr im Laden. Ich habe </tspan><tspan
            sodipodi:role="line"
            style="font-size:45px"
            x="642.27008"
            y="1479.8761"
-           id="tspan3668">while I wait for my</tspan><tspan
+           id="tspan3420">sie gekauft bis ich meine</tspan><tspan
            sodipodi:role="line"
            style="font-size:45px"
            x="642.27008"
            y="1536.1261"
-           id="tspan3670">new robes to arrive!</tspan></text>
+           id="tspan3422">neue Robe fertig ist!</tspan></text>
     </g>
     <g
        inkscape:groupmode="layer"
@@ -388,24 +388,24 @@
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
          x="363.69086"
-         y="2694.7598"
+         y="2696.7598"
          id="text4246-7-7"
          sodipodi:linespacing="125%"><tspan
            sodipodi:role="line"
            style="font-size:45px"
            x="363.69086"
-           y="2694.7598"
-           id="tspan4432">Well?</tspan><tspan
+           y="2696.7598"
+           id="tspan4432">Und?</tspan><tspan
            sodipodi:role="line"
            style="font-size:45px"
            x="363.69086"
-           y="2751.0098"
-           id="tspan3677">Doesn't it remind</tspan><tspan
+           y="2753.0098"
+           id="tspan3679">Erinnert dich das</tspan><tspan
            sodipodi:role="line"
            style="font-size:45px"
            x="363.69086"
-           y="2807.2598"
-           id="tspan3679">you of anything?...</tspan></text>
+           y="2809.2598"
+           id="tspan3426">an etwas?...</tspan></text>
       <path
          style="fill:#ffaaaa;fill-opacity:1;fill-rule:evenodd;stroke:none"
          d="m 256.41049,2710.4384 c -6.16611,-0.6043 -12.28289,-1.2282 -17.64595,-4.4763 -5.36306,-3.2479 -10.44782,-6.9343 -12.64824,-11.7348 -2.20042,-4.8005 -1.95875,-9.1873 0.49792,-12.6343 4.39147,-6.1618 11.06428,-7.0426 18.46462,-2.5465 0.50734,-8.0462 5.52625,-11.8792 11.88868,-11.5028 4.00868,0.2372 7.65038,1.8768 9.96626,6.0403 2.31589,4.1636 3.28269,10.0903 1.8717,16.6196 -1.41098,6.5293 -9.24073,15.5895 -12.39499,20.2348 z"
