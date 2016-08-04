@@ -23,6 +23,8 @@ License
 
 * Italian: Carlo Gandolfi, corrections: Antonio Parisi
 
+* Japanese :guruguru
+
 * Polish: Sölve Svartskogen
 
 * Swedish: Mikael Olofsson
