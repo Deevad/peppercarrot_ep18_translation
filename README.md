@@ -39,6 +39,7 @@ License
 
 * Swedish: Mikael Olofsson
 
+* Ukrainian: Denis "uncle Night" Prisukhin
 
 
 ## Artwork & Scenario :
