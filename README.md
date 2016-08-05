@@ -15,6 +15,8 @@ License
 
 * Catalan: Juan José Segura
 
+* Chinese: Ran Zhuang
+
 * English: Alex Gryson
 
 * French: David Revoy
