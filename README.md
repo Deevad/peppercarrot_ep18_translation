@@ -19,6 +19,8 @@ License
 
 * French: David Revoy
 
+* German: Philipp (hapit) Hemmer
+
 * Greek: George Karettas
 
 * Indonesian: Bonaventura Aditya Perdana
@@ -27,15 +29,16 @@ License
 
 * Japanese: Guruguru
 
+* Mexicano: RJ Quiralta
+
 * Polish: Sölve Svartskogen
+
+* Russian: Denis "uncle Night" Prisukhin
 
 * Spanish: TheFaico
 
 * Swedish: Mikael Olofsson
 
-* Mexicano: RJ Quiralta
-
-* German: Philipp (hapit) Hemmer
 
 
 ## Artwork & Scenario :
