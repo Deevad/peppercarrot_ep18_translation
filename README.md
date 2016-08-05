@@ -29,6 +29,8 @@ License
 
 * Polish: Sölve Svartskogen
 
+* Spanish: TheFaico
+
 * Swedish: Mikael Olofsson
 
 * Mexicano: RJ Quiralta
