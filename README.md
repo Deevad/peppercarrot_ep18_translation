@@ -13,6 +13,8 @@ License
 
 ## Translators and correctors:
 
+* Catalan: Juan José Segura
+
 * English: Alex Gryson
 
 * French: David Revoy
@@ -23,7 +25,7 @@ License
 
 * Italian: Carlo Gandolfi, corrections: Antonio Parisi
 
-* Japanese :guruguru
+* Japanese: Guruguru
 
 * Polish: Sölve Svartskogen
 
@@ -32,6 +34,7 @@ License
 * Mexicano: RJ Quiralta
 
 * German: Philipp (hapit) Hemmer
+
 
 ## Artwork & Scenario :
 
