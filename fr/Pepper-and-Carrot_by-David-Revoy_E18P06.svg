@@ -94,24 +94,24 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1680"
-     inkscape:window-height="1033"
+     inkscape:window-width="1920"
+     inkscape:window-height="1042"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.3478261"
-     inkscape:cx="946.65138"
-     inkscape:cy="1164.5825"
+     inkscape:zoom="0.52900002"
+     inkscape:cx="1211.4746"
+     inkscape:cy="2733.4067"
      inkscape:window-x="1920"
-     inkscape:window-y="0"
+     inkscape:window-y="23"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer3" />
+     inkscape:current-layer="layer6" />
   <g
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/home/deevad/peppercarrot/webcomics/New/lang/fr/../gfx_Pepper-and-Carrot_by-David-Revoy_E18P06.png"
+       sodipodi:absref="/home/deevad/peppercarrot/webcomics/New/lang-git/fr/../gfx_Pepper-and-Carrot_by-David-Revoy_E18P06.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E18P06.png"
        y="0"
        x="0"
@@ -178,14 +178,14 @@
          y="1584.5073"
          id="text4580-5"
          sodipodi:linespacing="125%"
-         transform="matrix(0.64003188,-0.70366221,0.27712015,0.87072843,981.11533,82.932837)"><tspan
+         transform="matrix(0.57140146,-0.6047453,0.24740464,0.74832628,1083.6139,213.433)"><tspan
            sodipodi:role="line"
            id="tspan4582-6"
            x="787.65729"
            y="1584.5073"
            style="font-size:70px;fill:#ffffff;stroke:none"><tspan
              style="font-size:80.40014648px;stroke:none"
-             id="tspan4617-2">Bam !</tspan></tspan></text>
+             id="tspan4617-2">Clomp !</tspan></tspan></text>
     </g>
     <g
        inkscape:groupmode="layer"

@@ -12,7 +12,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.5 r10040"
+   inkscape:version="0.91 r13725"
    width="2481"
    height="3503"
    sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E18P01.svg">
@@ -166,17 +166,17 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1680"
-     inkscape:window-height="980"
+     inkscape:window-width="1920"
+     inkscape:window-height="1042"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.22095347"
-     inkscape:cx="1380.3315"
-     inkscape:cy="1751.5"
+     inkscape:zoom="0.77728697"
+     inkscape:cx="1481.155"
+     inkscape:cy="1437.0721"
      inkscape:window-x="0"
-     inkscape:window-y="1"
+     inkscape:window-y="23"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer7"
+     inkscape:current-layer="layer1"
      showguides="false" />
   <g
      inkscape:groupmode="layer"
@@ -184,13 +184,13 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/Users/gand/Documents/Pepper&amp;Carrot/peppercarrot_ep18_translation/it/../gfx_Pepper-and-Carrot_by-David-Revoy_E18P01.png"
+       sodipodi:absref="/home/deevad/peppercarrot/webcomics/ep18_The-Encounter/lang/it/../gfx_Pepper-and-Carrot_by-David-Revoy_E18P01.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E18P01.png"
-       y="0"
-       x="0"
-       id="image10"
+       width="2481"
        height="3503"
-       width="2481" />
+       id="image10"
+       x="0"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -268,14 +268,14 @@
      style="display:inline">
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.08092308px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:0.45700001;fill:#756b4a;fill-opacity:1;stroke:none;stroke-width:1.60000002;stroke-miterlimit:4;stroke-dasharray:none;filter:url(#filter4666)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.08092308px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:0.8;fill:#756b4a;fill-opacity:1;stroke:none;stroke-width:1.60000002;stroke-miterlimit:4;stroke-dasharray:none;filter:url(#filter4666);"
        x="2176.2036"
        y="1681.5674"
        id="text4246-7-2"
        sodipodi:linespacing="125%"
-       transform="matrix(0.86912926,0.02259503,-0.19378922,0.97539956,257.17756,562.92394)"><tspan
+       transform="matrix(0.86912926,0.02259503,-0.19378922,0.97539956,252.03146,561.63741)"><tspan
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.05346298px;font-family:Fondamento;-inkscape-font-specification:Fondamento;fill:#756b4a;fill-opacity:1;stroke:#756b4a;stroke-width:1.2107898;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.05346298px;font-family:Fondamento;-inkscape-font-specification:Fondamento;fill:#756b4a;fill-opacity:1;stroke:#756b4a;stroke-width:1.2107898;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;"
          x="2176.2036"
          y="1681.5674"
          id="tspan4342-8">HIPPIAH</tspan></text>
