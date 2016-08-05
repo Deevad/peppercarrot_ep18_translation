@@ -93,16 +93,16 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="956"
-     inkscape:window-height="1051"
+     inkscape:window-height="1047"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.80000002"
-     inkscape:cx="2105.0801"
-     inkscape:cy="709.77779"
-     inkscape:window-x="960"
+     inkscape:zoom="0.56568544"
+     inkscape:cx="573.07376"
+     inkscape:cy="467.33567"
+     inkscape:window-x="956"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
-     inkscape:current-layer="layer8" />
+     inkscape:current-layer="layer7" />
   <g
      inkscape:groupmode="layer"
      id="layer2"
@@ -111,11 +111,11 @@
     <image
        sodipodi:absref="/home/rjq/Arts and Craft/Translation P&amp;C/GIT/peppercarrot_ep18_translation/mx/../gfx_Pepper-and-Carrot_by-David-Revoy_E18P02.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E18P02.png"
-       y="0"
-       x="0"
-       id="image10"
+       width="2481"
        height="3503"
-       width="2481" />
+       id="image10"
+       x="0"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -371,10 +371,10 @@
          x="1318.7137"
          transform="matrix(0.85154293,0.18970791,-0.20550775,0.80351798,-129.17095,-1692.0081)"><tspan
            y="3129.8394"
-           x="1320.59"
+           x="1327.1456"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.397192px;font-family:Fondamento;-inkscape-font-specification:Fondamento;letter-spacing:3.7524426px;fill:#000000;fill-opacity:1;stroke:#552e22;stroke-width:3.56912017;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            sodipodi:role="line"
-           id="tspan4209">Escuela de</tspan><tspan
+           id="tspan4209">Escuela </tspan><tspan
            y="3166.5859"
            x="1320.59"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.397192px;font-family:Fondamento;-inkscape-font-specification:Fondamento;letter-spacing:3.7524426px;fill:#000000;fill-opacity:1;stroke:#552e22;stroke-width:3.56912017;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -447,7 +447,7 @@
            style="font-size:33.00881958px;fill:#b17d62;fill-opacity:1"
            x="265.3385"
            y="2758.7815"
-           id="tspan4252">Oregano, muy bien.</tspan></text>
+           id="tspan4252">Orégano, muy bien.</tspan></text>
     </g>
     <g
        inkscape:groupmode="layer"
