@@ -213,15 +213,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1858"
-     inkscape:window-height="1057"
+     inkscape:window-width="1920"
+     inkscape:window-height="1042"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.341567"
-     inkscape:cx="769.66276"
-     inkscape:cy="2229.2829"
-     inkscape:window-x="54"
-     inkscape:window-y="-8"
+     inkscape:zoom="0.68701324"
+     inkscape:cx="1007.3822"
+     inkscape:cy="755.71532"
+     inkscape:window-x="0"
+     inkscape:window-y="23"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer7" />
   <g
@@ -230,13 +230,13 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="C:\Users\Rumiko\Documents\GitHub\peppercarrot_ep18_translation\ja\..\gfx_Pepper-and-Carrot_by-David-Revoy_E18P07.png"
+       sodipodi:absref="/home/deevad/peppercarrot/webcomics/ep18_The-Encounter/lang/ja/../gfx_Pepper-and-Carrot_by-David-Revoy_E18P07.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E18P07.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -584,14 +584,16 @@
            id="tspan3454">ぐぅぅ?</tspan></text>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:34.05346599px;line-height:125%;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c, Medium';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:0.45700001;fill:#756b4a;fill-opacity:1;stroke:none;stroke-width:1.60000002;stroke-miterlimit:4;stroke-dasharray:none;filter:url(#filter4666);writing-mode:lr;"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:34.0534668px;line-height:125%;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c, Medium';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;opacity:0.8;fill:#756b4a;fill-opacity:1;stroke:none;stroke-width:1.60000002;stroke-miterlimit:4;stroke-dasharray:none;filter:url(#filter4666);"
          x="2176.2036"
          y="1681.5674"
          id="text4246-7-2"
          sodipodi:linespacing="125%"
-         transform="matrix(0.86912926,0.02259503,-0.19378922,0.97539956,275.88855,1266.6072)"><tspan
+         transform="matrix(0.86912926,0.02259503,-0.19378922,0.97539956,243.86588,1284.0741)"><tspan
            sodipodi:role="line"
-           id="tspan3498">ヒッピア</tspan></text>
+           id="tspan3498"
+           x="2176.2036"
+           y="1681.5674">ヒッピア</tspan></text>
     </g>
     <g
        inkscape:groupmode="layer"
