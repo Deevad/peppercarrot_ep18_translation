@@ -15,13 +15,19 @@ License
 
 * Catalan: Juan José Segura
 
+* Chinese: Ran Zhuang
+
 * English: Alex Gryson
+
+* Finnish: Kari Lehto
 
 * French: David Revoy
 
 * German: Philipp (hapit) Hemmer
 
 * Greek: George Karettas
+
+* Hungarian: Halász Gábor "Hali"
 
 * Indonesian: Bonaventura Aditya Perdana
 
@@ -35,10 +41,13 @@ License
 
 * Russian: Denis "uncle Night" Prisukhin
 
+* Slovak: talime
+
 * Spanish: TheFaico
 
 * Swedish: Mikael Olofsson
 
+* Ukrainian: Denis "uncle Night" Prisukhin
 
 
 ## Artwork & Scenario :

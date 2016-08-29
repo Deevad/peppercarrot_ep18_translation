@@ -211,11 +211,11 @@
   <image
      sodipodi:absref="/home/nightmare/Projects/peppercarrot/peppercarrot_ep18_translation/ru/../gfx_Pepper-and-Carrot_by-David-Revoy_E18.png"
      xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E18.png"
-     y="0"
-     x="0"
-     id="image10"
+     width="1100"
      height="765"
-     width="1100" />
+     id="image10"
+     x="0"
+     y="0" />
   <g
      inkscape:groupmode="layer"
      id="layer2"
@@ -232,6 +232,6 @@
          id="tspan4185"
          x="560.6167"
          y="736.31476"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:56.25px;font-family:Neucha;-inkscape-font-specification:Neucha;text-align:center;text-anchor:middle">Эпизод 18: Встреча</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:56.25px;font-family:Neucha;-inkscape-font-specification:Neucha;text-align:center;text-anchor:middle">Эпизод 18: Неожиданная встреча</tspan></text>
   </g>
 </svg>
