@@ -37,6 +37,8 @@ License
 
 * Mexicano: RJ Quiralta
 
+* Norwegian: Thomas Nordstrøm
+
 * Polish: Sölve Svartskogen
 
 * Russian: Denis "uncle Night" Prisukhin
