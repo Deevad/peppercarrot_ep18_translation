@@ -53,30 +53,30 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1151"
-     inkscape:window-height="713"
+     inkscape:window-width="1600"
+     inkscape:window-height="858"
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.30716529"
-     inkscape:cx="1380.7003"
-     inkscape:cy="591.77634"
-     inkscape:window-x="54"
-     inkscape:window-y="-8"
+     inkscape:cx="957.4754"
+     inkscape:cy="2496.2884"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer9" />
+     inkscape:current-layer="layer8" />
   <g
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="F:\pc\peppercarrot_ep18_translation\jb\..\gfx_Pepper-and-Carrot_by-David-Revoy_E18P05.png"
+       sodipodi:absref="/mnt/bitcoin/peppercarrot_ep18_translation/jb/../gfx_Pepper-and-Carrot_by-David-Revoy_E18P05.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E18P05.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -231,7 +231,7 @@
            style="font-size:45px;fill:#b17d62;fill-opacity:1;stroke:none"
            x="1600.4674"
            y="265.40082"
-           id="tspan4202">se ctuca mi'a</tspan><tspan
+           id="tspan4202">se ctuca mi'a fo</tspan><tspan
            sodipodi:role="line"
            style="font-size:45px;fill:#b17d62;fill-opacity:1;stroke:none"
            x="1600.4674"
