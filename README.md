@@ -37,6 +37,8 @@ License
 
 * Mexicano: RJ Quiralta
 
+* Portuguese: Alexandre Esteves Almeida
+
 * Polish: Sölve Svartskogen
 
 * Russian: Denis "uncle Night" Prisukhin
