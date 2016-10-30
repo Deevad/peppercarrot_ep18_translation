@@ -37,6 +37,8 @@ License
 
 * Japanese: Guruguru
 
+* Lojban: Gleki Arxokuna, mezohe
+
 * Mexicano: RJ Quiralta
 
 * Norwegian: Thomas Nordstrøm
