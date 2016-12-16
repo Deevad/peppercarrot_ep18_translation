@@ -53,15 +53,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1600"
-     inkscape:window-height="858"
+     inkscape:window-width="1855"
+     inkscape:window-height="1056"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.30716529"
-     inkscape:cx="957.4754"
-     inkscape:cy="2496.2884"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:zoom="0.25614366"
+     inkscape:cx="2174.3812"
+     inkscape:cy="1434.2265"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer8" />
   <g
@@ -70,7 +70,7 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/mnt/bitcoin/peppercarrot_ep18_translation/jb/../gfx_Pepper-and-Carrot_by-David-Revoy_E18P05.png"
+       sodipodi:absref="/home/thomas/Data/Copy/PepperCarrot/Git/peppercarrot_ep18_translation/no/../gfx_Pepper-and-Carrot_by-David-Revoy_E18P05.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E18P05.png"
        y="0"
        x="0"
@@ -161,7 +161,7 @@
        sodipodi:nodetypes="zsssssz" />
     <path
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#f2f8d1;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
-       d="m 448.05166,1590.329 c 24.51416,-22.0831 160.21407,-17.1969 206.17195,-14.714 51.69374,2.7928 65.86092,19.5785 69.14968,36.5817 1.15713,5.9828 5.92788,31.0826 -24.0962,40.6968 -45.61532,14.6067 -95.32628,9.7932 -118.02359,9.7932 -22.69719,0 -85.97082,1.5134 -116.45642,-10.3641 -29.21583,-11.3827 -41.25958,-39.9105 -16.74542,-61.9936 z"
+       d="m 430.79799,1591.0191 c 24.51416,-22.0831 254.76417,-17.1969 300.72205,-14.714 51.69374,2.7928 65.86092,19.5785 69.14968,36.5817 1.15713,5.9828 5.92788,31.0826 -24.0962,40.6968 -45.61532,14.6067 -189.87638,9.7932 -212.57369,9.7932 -22.69719,0 -85.97082,1.5134 -116.45642,-10.3641 -29.21583,-11.3827 -41.25958,-39.9105 -16.74542,-61.9936 z"
        id="path3330-5-2-0-8"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="zsssssz" />
@@ -192,24 +192,29 @@
            style="font-size:43.52605057px;fill:#b17d62;fill-opacity:1;stroke:#b17d62;stroke-width:0.96724564;stroke-opacity:1"
            x="275.07883"
            y="175.99283"
-           id="tspan4272">ju'i do</tspan></text>
+           id="tspan4272">Æhem...</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#b17d62;fill-opacity:1;stroke:none"
-         x="441.52319"
-         y="264.46317"
+         x="437.24142"
+         y="238.18141"
          id="text4246-7-7"
          sodipodi:linespacing="125%"><tspan
            sodipodi:role="line"
            style="font-size:45px;fill:#b17d62;fill-opacity:1;stroke:none"
-           x="449.43335"
-           y="264.46317"
-           id="tspan3617">mi'a </tspan><tspan
+           x="437.24142"
+           y="238.18141"
+           id="tspan3617">Om det er greit</tspan><tspan
            sodipodi:role="line"
            style="font-size:45px;fill:#b17d62;fill-opacity:1;stroke:none"
-           x="441.52319"
-           y="320.71317"
-           id="tspan4195">ka'e kurji do...</tspan></text>
+           x="437.24142"
+           y="294.4314"
+           id="tspan4191">for deg, kan vi</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:45px;fill:#b17d62;fill-opacity:1;stroke:none"
+           x="437.24142"
+           y="350.6814"
+           id="tspan4193">ta oss av henne...</tspan></text>
     </g>
     <g
        inkscape:groupmode="layer"
@@ -226,39 +231,43 @@
            style="font-size:45px;fill:#b17d62;fill-opacity:1;stroke:none"
            x="1600.4674"
            y="209.15082"
-           id="tspan3626">i mi'a ca sisku lo ka ka'e</tspan><tspan
+           id="tspan3626">Vi er tilfeldigvis</tspan><tspan
            sodipodi:role="line"
            style="font-size:45px;fill:#b17d62;fill-opacity:1;stroke:none"
            x="1600.4674"
            y="265.40082"
-           id="tspan4202">se ctuca mi'a fo</tspan><tspan
+           id="tspan4200">p<tspan
+   style="font-size:40px"
+   id="tspan4204">å</tspan> jakt etter en</tspan><tspan
            sodipodi:role="line"
            style="font-size:45px;fill:#b17d62;fill-opacity:1;stroke:none"
            x="1600.4674"
            y="321.65082"
-           id="tspan4208">lo makfa pe la kalsa</tspan></text>
+           id="tspan4202">Kaosiastudent...</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#b17d62;fill-opacity:1;stroke:none"
-         x="1113.2504"
-         y="992.72797"
+         x="1104.4662"
+         y="993.70398"
          id="text4246-7-7-6-0"
          sodipodi:linespacing="125%"><tspan
            sodipodi:role="line"
            style="font-size:45px;fill:#b17d62;fill-opacity:1;stroke:none"
-           x="1121.1605"
-           y="992.72797"
-           id="tspan3635">i pe'i le fetsi </tspan><tspan
+           x="1104.4662"
+           y="993.70398"
+           id="tspan3635">... og hun <tspan
+   style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:'Lavi Italic'"
+   id="tspan4219">der</tspan> ser</tspan><tspan
            sodipodi:role="line"
            style="font-size:45px;fill:#b17d62;fill-opacity:1;stroke:none"
-           x="1113.2504"
-           y="1048.978"
-           id="tspan4215">cu simlu</tspan><tspan
+           x="1104.4662"
+           y="1049.9541"
+           id="tspan4211">ut som den</tspan><tspan
            sodipodi:role="line"
            style="font-size:45px;fill:#b17d62;fill-opacity:1;stroke:none"
-           x="1113.2504"
-           y="1105.228"
-           id="tspan4217">lo ka mapti</tspan></text>
+           x="1104.4662"
+           y="1106.2041"
+           id="tspan4213">perfekte kandidat.</tspan></text>
     </g>
     <g
        inkscape:groupmode="layer"
@@ -275,46 +284,41 @@
            style="font-size:33.24675751px;fill:#b17d62;fill-opacity:1;stroke:none"
            x="504.19281"
            y="1568.0043"
-           id="tspan4332-1">i ue la kaien</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.38865089px;line-height:110.00000238%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#b17d62;fill-opacity:1;stroke:none"
-         x="577.92603"
-         y="1610.1206"
-         id="text4246-7-7-6-0-6-7"
-         sodipodi:linespacing="110%"><tspan
-           sodipodi:role="line"
-           style="font-size:31.45743942px;line-height:110.00000238%;fill:#b17d62;fill-opacity:1;stroke:none"
-           x="577.92603"
-           y="1610.1206"
-           id="tspan7800">i la timiian</tspan><tspan
-           sodipodi:role="line"
-           style="font-size:31.45743942px;line-height:110.00000238%;fill:#b17d62;fill-opacity:1;stroke:none"
-           x="577.92603"
-           y="1644.7238"
-           id="tspan7804">i la kumin</tspan></text>
+           id="tspan4332-1">Kajenne?!</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.38865089px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#b17d62;fill-opacity:1;stroke:none"
-         x="687.60773"
+         x="605.39099"
+         y="1625.9797"
+         id="text4246-7-7-6-0-6-7"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           style="font-size:31.45743942px;fill:#b17d62;fill-opacity:1;stroke:none"
+           x="605.39099"
+           y="1625.9797"
+           id="tspan4332-1-9">Timian?! Spisskummen?!</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.38865089px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#b17d62;fill-opacity:1;stroke:none"
+         x="677.60773"
          y="1689.8"
          id="text4246-7-7-6-0-6-7-0"
          sodipodi:linespacing="125%"><tspan
            sodipodi:role="line"
            style="font-size:31.45743942px;fill:#b17d62;fill-opacity:1;stroke:none"
-           x="687.60773"
+           x="677.60773"
            y="1689.8"
-           id="tspan3639">i mi pu jinvi</tspan><tspan
+           id="tspan3639">Men jeg trodde</tspan><tspan
            sodipodi:role="line"
            style="font-size:31.45743942px;fill:#b17d62;fill-opacity:1;stroke:none"
-           x="687.60773"
+           x="677.60773"
            y="1729.1218"
-           id="tspan7812">lo du'u ro do</tspan><tspan
+           id="tspan4184">at dere var...</tspan><tspan
            sodipodi:role="line"
            style="font-size:31.45743942px;fill:#b17d62;fill-opacity:1;stroke:none"
-           x="687.60773"
+           x="677.60773"
            y="1768.4436"
-           id="tspan4492">i ia nai cumki</tspan></text>
+           id="tspan4492">... det er umulig!</tspan></text>
       <text
          sodipodi:linespacing="125%"
          id="text4178-6-5-9-0-7-0-4"
@@ -322,12 +326,12 @@
          xml:space="preserve"
          y="3129.8394"
          x="1318.7137"
-         transform="matrix(0.78456513,-0.04671298,-0.13510029,0.9324606,1024.7357,-1237.7417)"><tspan
+         transform="matrix(0.78169215,-0.08174305,-0.09327622,0.93756835,892.21561,-1204.0504)"><tspan
            y="3129.8394"
            x="1320.59"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.67671585px;font-family:Fondamento;-inkscape-font-specification:Fondamento;letter-spacing:3.7524426px;fill:#b26b42;fill-opacity:1;stroke:#794230;stroke-width:3.56912017;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            sodipodi:role="line"
-           id="tspan4725">jukpa</tspan></text>
+           id="tspan4725">KJØKKEN</tspan></text>
     </g>
   </g>
 </svg>

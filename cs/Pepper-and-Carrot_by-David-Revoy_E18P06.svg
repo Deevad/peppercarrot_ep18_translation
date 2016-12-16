@@ -94,24 +94,24 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1151"
-     inkscape:window-height="713"
+     inkscape:window-width="1920"
+     inkscape:window-height="1024"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.15358264"
-     inkscape:cx="573.83229"
-     inkscape:cy="-139.06902"
-     inkscape:window-x="54"
-     inkscape:window-y="-8"
+     inkscape:zoom="0.45584241"
+     inkscape:cx="1531.261"
+     inkscape:cy="2411.6741"
+     inkscape:window-x="-4"
+     inkscape:window-y="-4"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer5" />
+     inkscape:current-layer="layer3" />
   <g
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="F:\pc\peppercarrot_ep18_translation\jb\..\gfx_Pepper-and-Carrot_by-David-Revoy_E18P06.png"
+       sodipodi:absref="C:\Documents and Settings\Katerina\Plocha\Feferonka a Karotka\Episode 18\cs\..\gfx_Pepper-and-Carrot_by-David-Revoy_E18P06.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E18P06.png"
        y="0"
        x="0"
@@ -138,7 +138,7 @@
        sodipodi:nodetypes="ccsc" />
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#f2f8d1;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
-       d="m 848.71744,3358.4403 c -54.15599,0.4565 -99.01441,-7.6637 -120.55686,-29.0248 -21.54235,-21.361 -26.09301,-49.6875 1.29808,-64.5159 27.39101,-14.8281 77.43552,-29.5398 124.64481,-28.9851 47.20927,0.5547 111.76032,11.0431 132.01988,31.0935 20.25955,20.0504 28.56285,51.6601 -17.48232,72.8169 -46.68368,21.4502 -119.92359,18.6154 -119.92359,18.6154 z"
+       d="m 856.10778,3358.4403 c -40.72618,0.4565 -74.46043,-7.6637 -90.6607,-29.0248 -16.20019,-21.361 -19.62237,-49.6875 0.97618,-64.5159 20.59848,-14.8281 58.23276,-29.5398 93.7349,-28.9851 35.50213,0.5547 84.04557,11.0431 99.28108,31.0935 15.23551,20.0504 21.47969,51.6601 -13.14698,72.8169 -35.10689,21.4502 -90.18448,18.6154 -90.18448,18.6154 z"
        id="path3970"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="csssssc" />
@@ -158,14 +158,14 @@
          y="1584.5073"
          id="text4580"
          sodipodi:linespacing="125%"
-         transform="matrix(0.75013504,-0.49244974,0.05929022,0.96395374,432.22027,-792.60665)"><tspan
+         transform="matrix(0.75013504,-0.49244974,0.05929022,0.96395374,362.22027,-696.60665)"><tspan
            sodipodi:role="line"
            id="tspan4582"
            x="787.65729"
            y="1584.5073"
            style="font-size:70px;fill:#ffffff;stroke:none"><tspan
              style="font-size:80.40014648px;stroke:none"
-             id="tspan4617">u'ip</tspan></tspan></text>
+             id="tspan4617">Žuch!</tspan></tspan></text>
     </g>
     <g
        inkscape:groupmode="layer"
@@ -185,7 +185,7 @@
            y="1584.5073"
            style="font-size:70px;fill:#ffffff;stroke:none"><tspan
              style="font-size:80.40014648px;stroke:none"
-             id="tspan4617-2">pam</tspan></tspan></text>
+             id="tspan4617-2">Bum!</tspan></tspan></text>
     </g>
     <g
        inkscape:groupmode="layer"
@@ -202,7 +202,7 @@
            style="font-size:45px;fill:#b27f64;fill-opacity:1"
            x="856.90253"
            y="3312.4177"
-           id="tspan4252">u'i'i</tspan></text>
+           id="tspan4252">Hi hi hi!</tspan></text>
     </g>
   </g>
 </svg>

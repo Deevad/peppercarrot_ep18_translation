@@ -213,42 +213,25 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-<<<<<<< HEAD
-     inkscape:window-width="1151"
-     inkscape:window-height="713"
+     inkscape:window-width="1855"
+     inkscape:window-height="1176"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.43439731"
-     inkscape:cx="824.4267"
-     inkscape:cy="-293.83082"
-     inkscape:window-x="54"
-     inkscape:window-y="-8"
-=======
-     inkscape:window-width="1600"
-     inkscape:window-height="858"
-     id="namedview4"
-     showgrid="false"
-     inkscape:zoom="0.36732833"
-     inkscape:cx="1018.6798"
-     inkscape:cy="994.29512"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
->>>>>>> 01eeb1ff763ffc7b555b414a9f7f1ed20e25040d
+     inkscape:zoom="0.24320812"
+     inkscape:cx="1318.0417"
+     inkscape:cy="1757.4537"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer5" />
+     inkscape:current-layer="layer6" />
   <g
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-<<<<<<< HEAD
-       sodipodi:absref="F:\pc\peppercarrot_ep18_translation\jb\..\gfx_Pepper-and-Carrot_by-David-Revoy_E18P07.png"
-       xlink:href="..\gfx_Pepper-and-Carrot_by-David-Revoy_E18P07.png"
-=======
-       sodipodi:absref="/mnt/bitcoin/peppercarrot_ep18_translation/jb/../gfx_Pepper-and-Carrot_by-David-Revoy_E18P07.png"
+       sodipodi:absref="/home/thomas/Copy/PepperCarrot/Git/peppercarrot_ep18_translation/no/../gfx_Pepper-and-Carrot_by-David-Revoy_E18P07.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E18P07.png"
->>>>>>> 01eeb1ff763ffc7b555b414a9f7f1ed20e25040d
        y="0"
        x="0"
        id="image10"
@@ -521,52 +504,52 @@
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#b17d62;fill-opacity:1;stroke:none"
-         x="387.83896"
+         x="373.30188"
          y="213.89122"
          id="text4246"
          sodipodi:linespacing="125%"><tspan
            sodipodi:role="line"
            style="font-size:45px;fill:#b17d62;fill-opacity:1"
-           x="387.83896"
+           x="373.30188"
            y="213.89122"
-           id="tspan3579">i se'o mi jo'u do ba</tspan><tspan
+           id="tspan4277">Noe sier meg at</tspan><tspan
            sodipodi:role="line"
            style="font-size:45px;fill:#b17d62;fill-opacity:1"
-           x="387.83896"
+           x="373.30188"
            y="270.14124"
-           id="tspan10910">simxu lo ka</tspan><tspan
+           id="tspan4295">du og jeg kan  få</tspan><tspan
            sodipodi:role="line"
            style="font-size:45px;fill:#b17d62;fill-opacity:1"
-           x="387.83896"
+           x="381.21204"
            y="326.39124"
-           id="tspan10916">zabna pendo</tspan></text>
+           id="tspan4299">det fint sammen! </tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#b17d62;fill-opacity:1;stroke:none"
-         x="381.7504"
-         y="414.81082"
+         x="373.38928"
+         y="422.08859"
          id="text4246-3"
          sodipodi:linespacing="125%"><tspan
            sodipodi:role="line"
            style="font-size:45px;fill:#b17d62;fill-opacity:1"
-           x="381.7504"
-           y="414.81082"
-           id="tspan10927">i sei clira mi</tspan><tspan
+           x="373.38928"
+           y="422.08859"
+           id="tspan4314">... dessuten vet</tspan><tspan
            sodipodi:role="line"
            style="font-size:45px;fill:#b17d62;fill-opacity:1"
-           x="381.7504"
-           y="471.06082"
-           id="tspan10935">co'i jdice lo du'u</tspan><tspan
+           x="373.38928"
+           y="478.33859"
+           id="tspan4325">jeg akkurat hva</tspan><tspan
            sodipodi:role="line"
            style="font-size:45px;fill:#b17d62;fill-opacity:1"
-           x="381.7504"
-           y="527.31079"
-           id="tspan10937">do ba se cmene</tspan><tspan
+           x="373.38928"
+           y="534.58856"
+           id="tspan4327">jeg kan kalle</tspan><tspan
            sodipodi:role="line"
            style="font-size:45px;fill:#b17d62;fill-opacity:1"
-           x="381.7504"
-           y="583.56079"
-           id="tspan10939">ma kau mi</tspan></text>
+           x="381.29944"
+           y="590.83856"
+           id="tspan4333">deg! </tspan></text>
     </g>
     <g
        inkscape:groupmode="layer"
@@ -575,25 +558,27 @@
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
-         x="1439.0492"
+         x="1423.0585"
          y="1460.3228"
          id="text4246-7-7"
          sodipodi:linespacing="125%"><tspan
            sodipodi:role="line"
            style="font-size:45px"
-           x="1439.0492"
+           x="1423.0585"
            y="1460.3228"
-           id="tspan4432">uo</tspan><tspan
+           id="tspan4432">N<tspan
+   style="font-size:40px"
+   id="tspan4339">å</tspan>?</tspan><tspan
            sodipodi:role="line"
            style="font-size:45px"
-           x="1439.0492"
+           x="1423.0585"
            y="1516.5728"
-           id="tspan3572">i gau ti do ma</tspan><tspan
+           id="tspan3572">Hva får det deg</tspan><tspan
            sodipodi:role="line"
            style="font-size:45px"
-           x="1439.0492"
+           x="1423.0585"
            y="1572.8228"
-           id="tspan10903">di'a morji</tspan></text>
+           id="tspan4337">til å tenke på?!</tspan></text>
       <path
          style="fill:#ffaaaa;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          d="m 1347.3841,1465.713 c -6.1661,-0.6043 -12.2829,-1.2282 -17.6459,-4.4763 -5.3631,-3.2479 -10.4479,-6.9343 -12.6483,-11.7348 -2.2004,-4.8005 -1.9587,-9.1873 0.4979,-12.6343 4.3915,-6.1618 11.0643,-7.0426 18.4647,-2.5465 0.5073,-8.0462 5.5262,-11.8792 11.8886,-11.5028 4.0087,0.2372 7.6504,1.8768 9.9663,6.0403 2.3159,4.1636 3.2827,10.0903 1.8717,16.6196 -1.411,6.5293 -9.2407,15.5895 -12.395,20.2348 z"
@@ -613,30 +598,30 @@
        inkscape:label="frame05">
       <text
          xml:space="preserve"
-         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:54.99290848px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2.80699992;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate"
-         x="1997.8467"
-         y="2377.1411"
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48.75153351px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2.80699992;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate"
+         x="1995.8206"
+         y="2380.5295"
          id="text4190-8"
          sodipodi:linespacing="125%"
-         transform="matrix(0.94248685,0.04084103,-0.39405881,1.0439469,0,0)"><tspan
+         transform="matrix(0.94494919,0.04073461,-0.39508833,1.0412266,0,0)"><tspan
            sodipodi:role="line"
            id="tspan4192-5"
-           x="2000.0305"
-           y="2377.1411"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:4.36773443px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.80699992;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Gru</tspan></text>
+           x="1997.7566"
+           y="2380.5295"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:3.87202191px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.80699992;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Rumle?</tspan></text>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.08092308px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:0.8;fill:#756b4a;fill-opacity:1;stroke:none;stroke-width:1.60000002;stroke-miterlimit:4;stroke-dasharray:none;filter:url(#filter4666);"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.08092308px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:0.8;fill:#756b4a;fill-opacity:1;stroke:none;stroke-width:1.60000002;stroke-miterlimit:4;stroke-dasharray:none;filter:url(#filter4666)"
          x="2176.2036"
          y="1681.5674"
          id="text4246-7-2"
          sodipodi:linespacing="125%"
          transform="matrix(0.86912926,0.02259503,-0.19378922,0.97539956,248.93856,1282.0072)"><tspan
            sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.05346298px;font-family:Fondamento;-inkscape-font-specification:Fondamento;fill:#756b4a;fill-opacity:1;stroke:#756b4a;stroke-width:1.2107898;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.05346298px;font-family:Fondamento;-inkscape-font-specification:Fondamento;fill:#756b4a;fill-opacity:1;stroke:#756b4a;stroke-width:1.2107898;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            x="2176.2036"
            y="1681.5674"
-           id="tspan4342-8">HIPPIAH</tspan></text>
+           id="tspan4342-8">HIPPIA</tspan></text>
     </g>
     <g
        inkscape:groupmode="layer"
@@ -654,7 +639,7 @@
            id="tspan4215"
            x="2028.7821"
            y="2443.6147"
-           style="fill:#ffffff;stroke:#ffffff;stroke-width:3.82200003;stroke-miterlimit:4;stroke-dasharray:none">- fanmo -</tspan></text>
+           style="fill:#ffffff;stroke:#ffffff;stroke-width:3.82200003;stroke-miterlimit:4;stroke-dasharray:none">- Slutt -</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.79592609px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:#ffffff;filter:url(#filter5522)"
@@ -664,9 +649,9 @@
          sodipodi:linespacing="125%"><tspan
            sodipodi:role="line"
            style="font-size:36.73472214px;fill:#ffffff;stroke:#ffffff"
-           x="1240.0966"
+           x="1240.0964"
            y="3274.6868"
-           id="tspan4252-9">i de'i li nanca bu 2016 masti bu 8 i zoi zoi. www.peppercarrot.com.zoi. judri i finti fa la'o gy.David Revoy.gy. i la gleki cu fanva</tspan></text>
+           id="tspan4252-9">08/2016 - www.peppercarrot.com - Tegnet og fortalt av : David Revoy - Norskoversettelse : Thomas Nordstrøm</tspan></text>
       <text
          xml:space="preserve"
          style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.75px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:middle;display:inline;overflow:visible;visibility:visible;opacity:0.85500004;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;filter:url(#filter5546-3);enable-background:accumulate"
@@ -678,7 +663,7 @@
            style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.5px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:middle;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;enable-background:accumulate"
            x="1242.8344"
            y="3313.4661"
-           id="tspan4252-9-9-2">i lo se cfika cu se jicmu lo se finti be la'o gy.Craig Maloney.gy. i me le se finti fa la'e lu do zvafa'i mi i mi zvafa'i do li'u fa la'e lu vitke fa lo te makfa pe la rarna li'u</tspan></text>
+           id="tspan4252-9-9-2">Senarier inspirert av to foreslåtte senarier fra Craig Maloney: &quot;You found me, I Choose You&quot; og &quot;Visit from Hippiah&quot;.</tspan></text>
       <text
          xml:space="preserve"
          style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.75px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:middle;display:inline;overflow:visible;visibility:visible;opacity:0.85500004;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;filter:url(#filter5546);enable-background:accumulate"
@@ -690,12 +675,7 @@
            style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.5px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:middle;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;enable-background:accumulate"
            x="1242.353"
            y="3350.7795"
-           id="tspan4252-9-9">i skicu lo munje poi du la erevas i la'o gy.Craig Maloney.gy. sidju i cikre fa la'o gy.Willem Sonke.gy. e la'o gy.Moini.gy. e la'o gy.Hali.gy. e la'o gy.CGand.gy. e la'o gy.Alex Gryson.gy.</tspan><tspan
-           sodipodi:role="line"
-           style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.5px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:middle;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;enable-background:accumulate"
-           x="1242.353"
-           y="3385.1545"
-           id="tspan11538" /></text>
+           id="tspan4252-9-9">Basert på Hereva universet skapt av David Revoy med bidrag fra Craig Maloney. Rettelser av Willem Sonke, Moini, Hali, CGand og Alex Gryson.</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.72782516px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:0.85500004;fill:#ffffff;fill-opacity:1;stroke:#ffffff;filter:url(#filter5558)"
@@ -707,7 +687,7 @@
            x="1240.6473"
            y="3388.5505"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.5px;font-family:Lavi;-inkscape-font-specification:Lavi;fill:#ffffff;stroke:#ffffff"
-           id="tspan4169">i jaspu fa la'o gy.Creative Commons Attribution 4.0.gy. i proga fa la'o gy.Krita 3.0.gy. e la'o gy.Inkscape 0.91.gy. jo'u bo la'o gy.Manjaro XFCE.gy.</tspan></text>
+           id="tspan4169">Lisens : Creative Commons Attribution 4.0, Programvare: Krita 3.0, Inkscape 0.91 på Manjaro XFCE</tspan></text>
     </g>
   </g>
 </svg>

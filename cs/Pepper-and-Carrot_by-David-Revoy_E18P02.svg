@@ -92,24 +92,24 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1151"
-     inkscape:window-height="937"
+     inkscape:window-width="1920"
+     inkscape:window-height="1024"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.37067864"
-     inkscape:cx="342.82172"
-     inkscape:cy="2447.2911"
-     inkscape:window-x="54"
-     inkscape:window-y="-8"
+     inkscape:zoom="0.52421876"
+     inkscape:cx="1039.4877"
+     inkscape:cy="654.27895"
+     inkscape:window-x="-4"
+     inkscape:window-y="-4"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer5" />
+     inkscape:current-layer="layer8" />
   <g
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="H:\pc\peppercarrot_ep18_translation\jb\..\gfx_Pepper-and-Carrot_by-David-Revoy_E18P02.png"
+       sodipodi:absref="C:\Documents and Settings\Katerina\Plocha\Feferonka a Karotka\Episode 18\cs\..\gfx_Pepper-and-Carrot_by-David-Revoy_E18P02.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E18P02.png"
        width="2481"
        height="3503"
@@ -223,7 +223,8 @@
          inkscape:connector-curvature="0" />
     </g>
     <g
-       id="g3594">
+       id="g3594"
+       transform="matrix(1.08832,0,0,1.025236,-18.762689,-49.434858)">
       <path
          style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#f2f8d1;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.80699992;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
          d="m 145.14047,2071.2995 c 4.08161,4.9401 11.60713,4.1762 16.5311,7.7803 -3.10347,5.0016 -10.38159,0.1103 -14.68618,-1.6504 -2.28775,-1.0628 -4.47029,-4.0703 -1.84492,-6.1299 z"
@@ -340,7 +341,7 @@
        id="path4546-6"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="csscc"
-       transform="matrix(1.0577834,0,0,0.89551622,-17.311548,286.21205)" />
+       transform="matrix(1.1712066,0,0,0.88949195,-30.777721,302.65981)" />
     <path
        style="fill:#f2f8d1;fill-opacity:1;stroke:none"
        d="m 2113.8229,2752.3976 c 14.33,57.9847 -22.3574,94.4709 47.817,134.1546 -107.831,-35.326 -56.1664,-102.2768 -93.6599,-98.4722 -13.2287,2.1822 -45.0086,-5.8896 -34.155,-21.6777 26.8081,-3.8262 53.3118,-9.4557 79.9979,-14.0047 z"
@@ -371,26 +372,26 @@
          x="1318.7137"
          transform="matrix(0.9043445,0.18201027,-0.20486125,0.83222717,-204.56319,-1756.8524)"><tspan
            y="3129.8394"
-           x="1320.59"
+           x="1326.4854"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32.92485428px;font-family:Fondamento;-inkscape-font-specification:Fondamento;letter-spacing:3.7524426px;fill:#000000;fill-opacity:1;stroke:#552e22;stroke-width:3.56912017;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            sodipodi:role="line"
-           id="tspan3643">ckule</tspan><tspan
+           id="tspan4403">Škola čar    </tspan><tspan
            y="3170.9954"
            x="1320.59"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32.92485428px;font-family:Fondamento;-inkscape-font-specification:Fondamento;letter-spacing:3.7524426px;fill:#000000;fill-opacity:1;stroke:#552e22;stroke-width:3.56912017;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            sodipodi:role="line"
-           id="tspan6586">lo te makfa</tspan><tspan
+           id="tspan3409">a kouzel</tspan><tspan
            y="3212.1516"
            x="1320.59"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32.92485428px;font-family:Fondamento;-inkscape-font-specification:Fondamento;letter-spacing:3.7524426px;fill:#000000;fill-opacity:1;stroke:#552e22;stroke-width:3.56912017;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            sodipodi:role="line"
-           id="tspan6584">pe la rarna</tspan></text>
+           id="tspan3643">Hippiah</tspan></text>
       <use
          x="0"
          y="0"
          xlink:href="#text4178-6-5-9-0-7-0-4"
          id="use4439"
-         transform="matrix(0.17332253,0.08530708,0.05098025,0.22975965,948.01954,596.95243)"
+         transform="matrix(0.17332253,0.08530708,0.05098025,0.22975965,948.35017,597.11516)"
          width="100%"
          height="100%"
          style="filter:url(#filter4721)" />
@@ -406,12 +407,12 @@
          xml:space="preserve"
          y="3129.8394"
          x="1318.7137"
-         transform="matrix(0.82759813,-0.04418685,-0.25777964,1.0253367,488.83193,-1216.0063)"><tspan
+         transform="matrix(0.82759813,-0.04418685,-0.25777964,1.0253367,486.92433,-1216.0063)"><tspan
            y="3129.8394"
            x="1320.59"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.67671585px;font-family:Fondamento;-inkscape-font-specification:Fondamento;letter-spacing:3.7524426px;fill:#b26b42;fill-opacity:1;stroke:#794230;stroke-width:3.56912017;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            sodipodi:role="line"
-           id="tspan4725">jukpa</tspan></text>
+           id="tspan4725">KUCHYNĚ</tspan></text>
       <text
          xml:space="preserve"
          style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:54.99290848px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#b27f64;fill-opacity:1;fill-rule:nonzero;stroke:#b17d62;stroke-width:2.80699992;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate"
@@ -424,7 +425,7 @@
            id="tspan4192-5"
            x="1050.0433"
            y="1928.0765"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:4.36773443px;text-anchor:middle;fill:#b27f64;fill-opacity:1;stroke:#b17d62;stroke-width:2.80699992;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Gru</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:4.36773443px;text-anchor:middle;fill:#b27f64;fill-opacity:1;stroke:#b17d62;stroke-width:2.80699992;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Kruuu</tspan></text>
     </g>
     <g
        inkscape:groupmode="layer"
@@ -432,22 +433,17 @@
        inkscape:label="frame04">
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.80235195px;line-height:110.00000238%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:0.519;fill:#b17d62;fill-opacity:1;stroke:none"
-         x="241.81339"
-         y="2739.2471"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.80235195px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:0.519;fill:#b17d62;fill-opacity:1;stroke:none"
+         x="256.96979"
+         y="2757.3701"
          id="text4246"
-         sodipodi:linespacing="110%"
-         transform="scale(1.0068894,0.99315774)"><tspan
+         sodipodi:linespacing="125%"
+         transform="scale(1.0068894,0.99315776)"><tspan
            sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:33.0087471px;line-height:110.00000238%;font-family:Lavi;-inkscape-font-specification:'Lavi, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#b17d62;fill-opacity:1"
-           x="241.81339"
-           y="2739.2471"
-           id="tspan4252">i'e doi</tspan><tspan
-           sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:33.0087471px;line-height:110.00000238%;font-family:Lavi;-inkscape-font-specification:'Lavi, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#b17d62;fill-opacity:1"
-           x="241.81339"
-           y="2775.5566"
-           id="tspan6577">la marjolene</tspan></text>
+           style="font-size:33.00881958px;fill:#b17d62;fill-opacity:1"
+           x="256.96979"
+           y="2757.3701"
+           id="tspan4252">Oregánko, dobře.</tspan></text>
     </g>
     <g
        inkscape:groupmode="layer"
@@ -465,7 +461,7 @@
            style="font-size:39.34170914px;fill:#b17d62;fill-opacity:1"
            x="2097.9534"
            y="2701.0437"
-           id="tspan4252-1">i'e doi la kardamomu</tspan></text>
+           id="tspan4252-1">Kardamomko, skvěle.</tspan></text>
     </g>
   </g>
 </svg>

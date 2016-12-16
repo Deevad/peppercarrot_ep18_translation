@@ -29,7 +29,18 @@
     </rdf:RDF>
   </metadata>
   <defs
-     id="defs6" />
+     id="defs6">
+    <filter
+       id="filter4155"
+       style="color-interpolation-filters:sRGB"
+       inkscape:collect="always">
+      <feBlend
+         id="feBlend4157"
+         in2="BackgroundImage"
+         mode="multiply"
+         inkscape:collect="always" />
+    </filter>
+  </defs>
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -39,15 +50,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1151"
-     inkscape:window-height="937"
+     inkscape:window-width="1855"
+     inkscape:window-height="1056"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.39129827"
-     inkscape:cx="1054.9432"
-     inkscape:cy="3975.1793"
-     inkscape:window-x="54"
-     inkscape:window-y="-8"
+     inkscape:zoom="0.12686113"
+     inkscape:cx="3024.6168"
+     inkscape:cy="2467.7493"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer2"
      inkscape:object-nodes="true"
@@ -66,7 +77,7 @@
      transform="translate(0,1024)"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="F:\pc\peppercarrot_ep18_translation\jb\..\gfx_Pepper-and-Carrot_by-David-Revoy_E18P08.png"
+       sodipodi:absref="/home/thomas/Data/Copy/PepperCarrot/Git/peppercarrot_ep18_translation/no/../gfx_Pepper-and-Carrot_by-David-Revoy_E18P08.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E18P08.png"
        y="-1023.3771"
        x="0.54707891"
@@ -83,38 +94,44 @@
      style="display:inline;opacity:0.855"
      transform="translate(0,1024)">
     <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.71540833px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:0.85500004;fill:#483e37;fill-opacity:1;stroke:none;filter:url(#filter4155)"
-       x="1240.4587"
-       y="-773.15283"
-       id="text4162"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         x="1240.4587"
-         y="-773.15283"
+       sodipodi:linespacing="125%"
+       id="text4162-9"
+       y="-784.85919"
+       x="1240.9668"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.71540833px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:0.599355;fill:#483e37;fill-opacity:1;stroke:none;filter:url(#filter4155)"
+       xml:space="preserve"><tspan
+         id="tspan4168"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:Lavi;-inkscape-font-specification:Lavi;fill:#483e37"
-         id="tspan3382">i la'e lu la piper jo'u la karot li'u fingubni</tspan><tspan
-         sodipodi:role="line"
-         x="1240.4587"
-         y="-723.15283"
+         y="-784.85919"
+         x="1240.9668"
+         sodipodi:role="line">Pepper &amp; Gulrot er fullstendig fri og <tspan
+   id="tspan4173"
+   style="font-size:35px">å</tspan>pen kildekode,</tspan><tspan
+         id="tspan4166-1"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:Lavi;-inkscape-font-specification:Lavi;fill:#483e37"
-         id="tspan5274">i sarji lo nu finti kei fa lo 720 se selfu prenu pe la'e di'e</tspan></text>
+         y="-734.85919"
+         x="1247.998"
+         sodipodi:role="line">sponset av dedikerte og trofaste lesere via Patreon. </tspan><tspan
+         id="tspan4163"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:Lavi;-inkscape-font-specification:Lavi;fill:#483e37"
+         y="-684.85919"
+         x="1240.9668"
+         sodipodi:role="line">Stor takk til de 720 følgerne som har sponset denne episoden:</tspan></text>
     <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.29317284px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:0.85500004;fill:#483e37;fill-opacity:1;stroke:none;filter:url(#filter4155)"
-       x="1240.49"
-       y="3225.4817"
-       id="text4221"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan4223"
-         x="1240.49"
-         y="3225.4817"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:Lavi;-inkscape-font-specification:Lavi;fill:#483e37">i e'u do co'a se selfu lo finti pe la'e lu la piper jo'u la karot li'u</tspan><tspan
-         sodipodi:role="line"
-         x="1240.49"
-         y="3275.4817"
+       sodipodi:linespacing="125%"
+       id="text4221-2"
+       y="3276.7942"
+       x="1240.998"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.29317284px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:0.599355;fill:#483e37;fill-opacity:1;stroke:none;filter:url(#filter4155)"
+       xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:Lavi;-inkscape-font-specification:Lavi;fill:#483e37"
-         id="tspan5267">i ko vitke lo se judri be zoi zoi.http://www.patreon.com/davidrevoy.zoi.</tspan></text>
+         y="3276.7942"
+         x="1240.998"
+         id="tspan4223-7"
+         sodipodi:role="line">Du kan ogs<tspan
+   id="tspan4147"
+   style="font-size:35px">å</tspan> bli en sponsor av Pepper &amp; Gulrot p<tspan
+   id="tspan4153"
+   style="font-size:35px">å</tspan> www.patreon.com/davidrevoy</tspan></text>
   </g>
 </svg>

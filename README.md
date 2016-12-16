@@ -17,6 +17,8 @@ License
 
 * Chinese: Ran Zhuang
 
+* Czech: Kateřina Fleknová
+
 * English: Alex Gryson
 
 * Finnish: Kari Lehto
@@ -35,7 +37,11 @@ License
 
 * Japanese: Guruguru
 
+* Lojban: Gleki Arxokuna, mezohe
+
 * Mexicano: RJ Quiralta
+
+* Norwegian: Thomas Nordstrøm
 
 * Polish: Sölve Svartskogen
 

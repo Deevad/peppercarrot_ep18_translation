@@ -217,17 +217,17 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1151"
-     inkscape:window-height="713"
+     inkscape:window-width="1855"
+     inkscape:window-height="1056"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.15358264"
-     inkscape:cx="1240.5"
-     inkscape:cy="1751.5"
-     inkscape:window-x="54"
-     inkscape:window-y="-8"
+     inkscape:zoom="0.11908994"
+     inkscape:cx="3290.3811"
+     inkscape:cy="543.73594"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer5"
+     inkscape:current-layer="layer8"
      showguides="false" />
   <g
      inkscape:groupmode="layer"
@@ -235,13 +235,13 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="F:\pc\peppercarrot_ep18_translation\jb\..\gfx_Pepper-and-Carrot_by-David-Revoy_E18P04.png"
+       sodipodi:absref="/home/thomas/Data/Copy/PepperCarrot/Git/peppercarrot_ep18_translation/no/../gfx_Pepper-and-Carrot_by-David-Revoy_E18P04.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E18P04.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -298,7 +298,7 @@
        inkscape:connector-curvature="0" />
     <path
        style="fill:#f2f8d1;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 826.5563,104.79711 c 48.87075,11.62 95.21557,23.40472 -4.97177,44.7459 47.38868,-0.37939 107.5083,-4.48491 23.6159,33.55943 51.85525,-15.22644 121.28399,-22.3054 53.44649,23.61589 64.73833,-23.38237 85.58206,-26.49452 50.96062,4.97177 39.21845,-16.03258 60.01426,-15.68948 39.77414,21.13001 35.76302,-5.43035 70.57682,-10.33696 12.42942,36.04531 109.0802,-44.65627 51.1247,3.91664 24.8588,34.80237 43.0157,-16.06089 80.4614,-23.03619 14.3985,53.05412 75.825,-56.89524 84.3243,-35.22219 78.8222,-13.27998 38.0658,-47.50028 45.5128,-7.51798 62.1471,6.21471 21.5622,-42.90709 39.7562,-42.02676 54.6894,1.24294 14.7822,-31.77366 52.2255,-49.61963 61.8745,48.56872 6.0341,-80.35137 36.7101,-86.44063 64.9056,-47.32578 3.4418,-57.56767 37.2219,-11.11803 62.1471,4.97177 -9.6682,-28.62094 10.5152,-41.58533 59.9643,18.49375 -46.9324,-76.18459 26.4612,-23.9753 54.3863,-4.82139 -31.3229,-52.45291 18.7001,-23.55997 49.7177,-13.67236 -23.8458,-31.21722 -17.0743,-43.29865 38.5312,-24.85883 -56.425,-51.03765 -16.1297,-46.27515 9.9435,-49.71768 -35.4577,-17.83741 -51.8978,-50.43591 48.3267,-49.44511 -92.5658,-17.39134 -157.744,-36.633 -83.1291,-51.23317 -77.4534,-7.22955 -58.6631,-28.61258 -24.8588,-52.20356 -75.6388,28.02951 -75.3166,13.01451 -52.2036,-14.9153 -55.2332,33.97759 -101.1192,31.73613 -52.6265,-11.27811 -89.744,44.89527 -107.1114,52.59568 -102.7412,7.54928 -55.9026,28.8712 -53.1038,-18.615658 -37.105,-34.07634 -47.2068,32.37391 -93.747,35.44682 -68.545,-4.454852 -50.1861,32.811932 -84.6291,27.441647 -88.3711,-21.160555 -23.4993,59.881827 -38.9271,29.737592 -70.7255,-7.427106 11.5491,43.0234 -11.5941,70.211223 -77.6991,18.796851 16.3201,27.042026 5.9509,41.615462 -67.11889,-8.700593 25.06794,33.279587 -17.15815,34.495622 -81.39741,-1.395665 28.53466,32.03808 42.22574,59.38871 -53.4465,52.20356 z"
+       d="m 826.5563,104.79711 c 48.87075,11.62 95.21557,23.40472 -4.97177,44.7459 47.38868,-0.37939 107.5083,-4.48491 23.6159,33.55943 51.85525,-15.22644 121.28399,-22.3054 53.44649,23.61589 64.73833,-23.38237 85.58206,-26.49452 50.96062,4.97177 39.21845,-16.03258 45.17029,-11.23629 24.93017,25.5832 35.76299,-5.43035 70.57679,-8.85256 12.42942,37.52971 75.68127,-26.10132 42.96057,12.08082 16.69467,42.96655 43.0157,-16.06089 103.4695,-37.13796 37.4066,38.95235 75.825,-56.89524 84.3243,-35.22219 78.8222,-13.27998 38.0658,-47.50028 45.5128,-7.51798 62.1471,6.21471 21.5622,-42.90709 39.7562,-42.02676 54.6894,1.24294 14.7822,-31.77366 52.2255,-49.61963 61.8745,48.56872 6.0341,-80.35137 36.7101,-86.44063 64.9056,-47.32578 3.4418,-57.56767 37.2219,-11.11803 62.1471,4.97177 -9.6682,-28.62094 10.5152,-41.58533 59.9643,18.49375 -46.9324,-76.18459 26.4612,-23.9753 54.3863,-4.82139 -31.3229,-52.45291 18.7001,-23.55997 49.7177,-13.67236 -23.8458,-31.21722 -17.0743,-43.29865 38.5312,-24.85883 -56.425,-51.03765 -16.1297,-46.27515 9.9435,-49.71768 -35.4577,-17.83741 -30.3741,-49.69371 69.8504,-48.70291 -92.5658,-17.39134 -108.0167,-38.8596 -72.7383,-68.30373 -77.4534,-7.22955 -61.6319,-21.1906 -27.8276,-44.78158 -75.6388,28.02951 -104.2623,21.92089 -81.1493,-6.00892 -55.2332,33.97759 -101.1192,31.73613 -52.6265,-11.27811 -89.744,44.89527 -107.1114,52.59568 -102.7412,7.54928 -55.9026,28.8712 -53.1038,-18.615658 -37.105,-34.07634 -47.2068,32.37391 -93.747,35.44682 -68.545,-4.454852 -50.1861,32.811932 -84.6291,27.441647 -88.3711,-21.160555 -23.4993,59.881827 -38.9271,29.737592 -70.7255,-7.427106 11.5491,43.0234 -11.5941,70.211223 -77.6991,18.796851 16.3201,27.042026 5.9509,41.615462 -67.11889,-8.700593 25.06794,33.279587 -17.15815,34.495622 -81.39741,-1.395665 28.53466,32.03808 42.22574,59.38871 -53.4465,52.20356 z"
        id="path4440"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccccccccccccccccccccccccccccccccc" />
@@ -389,7 +389,7 @@
            style="font-size:49.99659729px;fill:#b17d62;fill-opacity:1;stroke:#b17d62;stroke-width:4.39599991;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            x="383.75476"
            y="260.35852"
-           id="tspan4252-7-3-1">u'a'a</tspan></text>
+           id="tspan4252-7-3-1">HAHA HA !</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.66310501px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#b17d62;fill-opacity:1;stroke:#b17d62;stroke-width:4.14599991;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -402,7 +402,7 @@
            style="font-size:43.73664474px;fill:#b17d62;fill-opacity:1;stroke:#b17d62;stroke-width:4.14599991;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            x="665.66791"
            y="435.52612"
-           id="tspan4252-7-3-1-7">u'i'i'i</tspan></text>
+           id="tspan4252-7-3-1-7">HuHu Hu !</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81517601px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#b17d62;fill-opacity:1;stroke:#b17d62;stroke-width:2.90656137;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -415,7 +415,7 @@
            style="font-size:33.05691147px;fill:#b17d62;fill-opacity:1;stroke:#b17d62;stroke-width:2.90656137;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            x="1921.4442"
            y="316.60269"
-           id="tspan4252-7-3-1-7-2">ga'i</tspan></text>
+           id="tspan4252-7-3-1-7-2">Pfff !</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.28102493px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#b17d62;fill-opacity:1;stroke:#b17d62;stroke-width:3.71960711;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -428,7 +428,7 @@
            style="font-size:42.30384445px;fill:#b17d62;fill-opacity:1;stroke:#b17d62;stroke-width:3.71960711;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            x="2099.2495"
            y="273.50986"
-           id="tspan4252-7-3-1-2">u'a'a'a'a'a</tspan></text>
+           id="tspan4252-7-3-1-2">HAHA HA HA !</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.58454418px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#b17d62;fill-opacity:1;stroke:#b17d62;stroke-width:4.80885172;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -441,7 +441,7 @@
            style="font-size:54.69203949px;fill:#b17d62;fill-opacity:1;stroke:#b17d62;stroke-width:4.80885172;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            x="1112.2097"
            y="159.39041"
-           id="tspan4252-7-3-1-7-2-6">i ko sisti</tspan></text>
+           id="tspan4252-7-3-1-7-2-6">STOPP</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.93099403px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#b17d62;fill-opacity:1;stroke:#b17d62;stroke-width:3.60919476;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -454,59 +454,59 @@
            style="font-size:63.4912262px;fill:#b17d62;fill-opacity:1;stroke:#b17d62;stroke-width:3.60919476;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            x="1255.8224"
            y="158.17899"
-           id="tspan4252-7-3-1-7-2-6-2-7-6" /></text>
+           id="tspan4252-7-3-1-7-2-6-2-7-6">!!!</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3725462px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#b17d62;fill-opacity:1;stroke:#b17d62;stroke-width:2.57556796;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         x="1357.1331"
+         x="1373.074"
          y="216.45667"
          id="text4246-6-5-6-8-9-3-3"
          sodipodi:linespacing="125%"
          transform="matrix(0.977744,0,-0.14076626,1.0227626,0,0)"><tspan
            sodipodi:role="line"
            style="font-size:50.14704895px;fill:#b17d62;fill-opacity:1;stroke:#b17d62;stroke-width:2.57556796;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           x="1357.1331"
+           x="1373.074"
            y="216.45667"
-           id="tspan4252-7-3-1-7-2-6-5">i mi na srera</tspan></text>
+           id="tspan4252-7-3-1-7-2-6-5">Jeg kan ikke noe for det!!!</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.65460587px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#b17d62;fill-opacity:1;stroke:#b17d62;stroke-width:2.24469066;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         x="1367.6638"
-         y="270.52332"
+         x="1298.7152"
+         y="274.74985"
          id="text4246-6-5-6-8-9-3-3-9"
          sodipodi:linespacing="125%"
          transform="matrix(0.9491014,0,-0.13664257,1.0536282,0,0)"><tspan
            sodipodi:role="line"
            style="font-size:43.70477295px;fill:#b17d62;fill-opacity:1;stroke:#b17d62;stroke-width:2.24469066;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           x="1367.6638"
-           y="270.52332"
-           id="tspan4252-7-3-1-7-2-6-5-1">i e'e do</tspan></text>
+           x="1298.7152"
+           y="274.74985"
+           id="tspan4252-7-3-1-7-2-6-5-1">Kom igjen da...</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.58454418px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#b17d62;fill-opacity:1;stroke:#b17d62;stroke-width:4.80885172;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         x="1495.9598"
-         y="291.73938"
+         x="1510.1681"
+         y="291.00818"
          id="text4246-6-5-6-8-9-3-6"
          sodipodi:linespacing="125%"
          transform="matrix(0.98520217,0,-0.14184002,1.0150201,0,0)"><tspan
            sodipodi:role="line"
            style="font-size:54.69203949px;fill:#b17d62;fill-opacity:1;stroke:#b17d62;stroke-width:4.80885172;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           x="1495.9598"
-           y="291.73938"
-           id="tspan4252-7-3-1-7-2-6-2">SISTI</tspan></text>
+           x="1510.1681"
+           y="291.00818"
+           id="tspan4252-7-3-1-7-2-6-2">STOPP</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.36458969px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#b17d62;fill-opacity:1;stroke:#b17d62;stroke-width:3.91479564;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         x="1730.7595"
-         y="273.49802"
+         x="1750.1843"
+         y="272.82083"
          id="text4246-6-5-6-8-9-3-6-9"
          sodipodi:linespacing="125%"
-         transform="matrix(0.91243158,0,-0.13136321,1.0959726,0,0)"><tspan
+         transform="matrix(0.91243157,0,-0.13136321,1.0959726,0,0)"><tspan
            sodipodi:role="line"
            style="font-size:68.86721039px;fill:#b17d62;fill-opacity:1;stroke:#b17d62;stroke-width:3.91479564;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           x="1730.7595"
-           y="273.49802"
-           id="tspan4252-7-3-1-7-2-6-2-7" /></text>
+           x="1750.1843"
+           y="272.82083"
+           id="tspan4252-7-3-1-7-2-6-2-7">!!!</tspan></text>
     </g>
     <g
        inkscape:groupmode="layer"
@@ -514,43 +514,43 @@
        inkscape:label="frame02">
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.58842278px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#b17d62;fill-opacity:1;stroke:#b17d62;stroke-width:3.39899993;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.58842278px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#b17d62;fill-opacity:1;stroke:#b17d62;stroke-width:3.399;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          x="741.59198"
          y="874.19165"
          id="text4246-6-5-6-0-0-7"
          sodipodi:linespacing="125%"
          transform="matrix(0.95274608,0,-0.1371673,1.0495976,0,0)"><tspan
            sodipodi:role="line"
-           style="font-size:65.95658112px;fill:#b17d62;fill-opacity:1;stroke:#b17d62;stroke-width:3.39899993;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           style="font-size:65.95658112px;fill:#b17d62;fill-opacity:1;stroke:#b17d62;stroke-width:3.399;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            x="741.59198"
            y="874.19165"
-           id="tspan4252-7-3-1-2-9-9">u'a'a'a</tspan></text>
+           id="tspan4252-7-3-1-2-9-9">HAHA HA HA !</tspan></text>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.94486046px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#b17d62;fill-opacity:1;stroke:#b17d62;stroke-width:3.82399988;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.94486046px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#b17d62;fill-opacity:1;stroke:#b17d62;stroke-width:3.824;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          x="681.68524"
          y="956.62524"
          id="text4246-6-5-6-8-2"
          sodipodi:linespacing="125%"
          transform="matrix(0.92887407,0,-0.36893682,1.0765722,0,0)"><tspan
            sodipodi:role="line"
-           style="font-size:63.54322433px;fill:#b17d62;fill-opacity:1;stroke:#b17d62;stroke-width:3.82399988;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           style="font-size:63.54322433px;fill:#b17d62;fill-opacity:1;stroke:#b17d62;stroke-width:3.824;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            x="681.68524"
            y="956.62524"
-           id="tspan4252-7-3-1-7-6">u'i'i'i'i</tspan></text>
+           id="tspan4252-7-3-1-7-6">HuHu Hu !</tspan></text>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.58842278px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#b17d62;fill-opacity:1;stroke:#b17d62;stroke-width:3.39899993;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.58842278px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#b17d62;fill-opacity:1;stroke:#b17d62;stroke-width:3.39900002;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          x="2338.7043"
          y="897.25958"
          id="text4246-6-5-6-0-0"
          sodipodi:linespacing="125%"
          transform="matrix(0.95274607,0,-0.1371673,1.0495976,0,0)"><tspan
            sodipodi:role="line"
-           style="font-size:65.95658112px;fill:#b17d62;fill-opacity:1;stroke:#b17d62;stroke-width:3.39899993;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           style="font-size:65.95658112px;fill:#b17d62;fill-opacity:1;stroke:#b17d62;stroke-width:3.39900002;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            x="2338.7043"
            y="897.25958"
-           id="tspan4252-7-3-1-2-9">u'a'a u'a'a</tspan></text>
+           id="tspan4252-7-3-1-2-9">HAHA HA HA !</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.94935226px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#b17d62;fill-opacity:1;stroke:#b17d62;stroke-width:2.56396532;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -563,7 +563,7 @@
            style="font-size:59.81007004px;fill:#b17d62;fill-opacity:1;stroke:#b17d62;stroke-width:2.56396532;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            x="2268.8306"
            y="1081.6497"
-           id="tspan4252-7-3-1-7-6-2">u'a'a u'a'a</tspan></text>
+           id="tspan4252-7-3-1-7-6-2">HAHA HA !!</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.52694416px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#b17d62;fill-opacity:1;stroke:#b17d62;stroke-width:0.79391199;stroke-opacity:1"
@@ -576,17 +576,17 @@
            style="font-size:35.72603989px;fill:#b17d62;fill-opacity:1;stroke:#b17d62;stroke-width:0.79391199;stroke-opacity:1"
            x="1605.27"
            y="1090.7448"
-           id="tspan4252">le'o</tspan><tspan
+           id="tspan4252">Grr...</tspan><tspan
            sodipodi:role="line"
            style="font-size:35.72603989px;fill:#b17d62;fill-opacity:1;stroke:#b17d62;stroke-width:0.79391199;stroke-opacity:1"
            x="1605.27"
            y="1135.4023"
-           id="tspan4272">i ke'u ko</tspan><tspan
+           id="tspan4270">       Stopp...</tspan><tspan
            sodipodi:role="line"
            style="font-size:35.72603989px;fill:#b17d62;fill-opacity:1;stroke:#b17d62;stroke-width:0.79391199;stroke-opacity:1"
            x="1605.27"
            y="1180.0598"
-           id="tspan7861">        sisti</tspan></text>
+           id="tspan4272">          Jeg sa...</tspan></text>
     </g>
     <g
        inkscape:groupmode="layer"
@@ -604,7 +604,7 @@
            style="font-size:65.95658112px;letter-spacing:4.47999907px;fill:#a64925;fill-opacity:1;stroke:#a64925;stroke-width:5.19899988;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            x="1672.8098"
            y="1653.399"
-           id="tspan4252-7-3-1-2-9-2">i ke'u</tspan></text>
+           id="tspan4252-7-3-1-2-9-2">Jeg sa...</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:43.73806px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#a64925;fill-opacity:1;stroke:#a64925;stroke-width:5.72100019;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4620)"
@@ -617,7 +617,7 @@
            style="font-size:164.01771545px;letter-spacing:11.14065075px;fill:#a64925;fill-opacity:1;stroke:#a64925;stroke-width:5.72100019;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            x="2722.7283"
            y="1452.1812"
-           id="tspan4252-7-3-1-2-9-2-8">SISTI</tspan></text>
+           id="tspan4252-7-3-1-2-9-2-8">STOPP !!!</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.76185226px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#532c1e;fill-opacity:1;stroke:#532c1e;stroke-width:6.71780205;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4670)"
@@ -633,12 +633,12 @@
            id="tspan4252-7-3-1-2-9-9-2"><tspan
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:177.8764801px;font-family:'Drukaatie burti';-inkscape-font-specification:'Drukaatie burti';fill:#532c1e;fill-opacity:1;stroke:#532c1e;stroke-width:6.71780205;stroke-opacity:1"
              id="tspan4654"><tspan
-   style="font-size:150px;fill:#532c1e;fill-opacity:1;stroke:#532c1e;stroke-opacity:1"
-   id="tspan4666">B</tspan>A<tspan
-   style="font-size:211.08355713px;fill:#532c1e;fill-opacity:1;stroke:#532c1e;stroke-width:6.71780205;stroke-opacity:1"
-   id="tspan4656">AAM</tspan><tspan
-   id="tspan4664"
-   style="font-size:253.30026245px;fill:#532c1e;fill-opacity:1;stroke:#532c1e;stroke-width:6.71780205;stroke-opacity:1" /></tspan></tspan></text>
+               style="font-size:211.08355713px;fill:#532c1e;fill-opacity:1;stroke:#532c1e;stroke-width:6.71780205;stroke-opacity:1"
+               id="tspan4656">KABOM !</tspan><tspan
+               id="tspan4660"
+               style="font-size:232.19190979px;fill:#532c1e;fill-opacity:1;stroke:#532c1e;stroke-width:6.71780205;stroke-opacity:1">!</tspan><tspan
+               id="tspan4664"
+               style="font-size:253.30026245px;fill:#532c1e;fill-opacity:1;stroke:#532c1e;stroke-width:6.71780205;stroke-opacity:1">!</tspan></tspan></tspan></text>
     </g>
     <g
        inkscape:groupmode="layer"
@@ -651,20 +651,18 @@
          y="1884.4843"
          id="text4246-6-5-6-0-0-7-1-7"
          sodipodi:linespacing="125%"
-         transform="matrix(0.59775824,-0.37103712,0.06248198,1.3741661,-1646.8319,1459.7234)"><tspan
+         transform="matrix(0.59775824,-0.37103712,0.06248198,1.3741661,-1626.8319,1459.7234)"><tspan
            sodipodi:role="line"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:177.8764801px;font-family:'Drukaatie burti';-inkscape-font-specification:'Drukaatie burti';letter-spacing:6.35266399px;fill:#532c1e;fill-opacity:1;stroke:#532c1e;stroke-width:6.71780205;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            x="3348.4973"
            y="1884.4843"
            id="tspan4252-7-3-1-2-9-9-2-5"><tspan
-   style="font-size:121.15057373px;letter-spacing:6.35266399px;fill:#532c1e;fill-opacity:1;stroke:#532c1e;stroke-opacity:1"
-   id="tspan4747">S</tspan>K<tspan
-   style="font-size:211.08355713px;letter-spacing:6.35266399px;fill:#532c1e;fill-opacity:1;stroke:#532c1e;stroke-width:6.71780205;stroke-opacity:1"
-   id="tspan4656-0">RA<tspan
-   style="font-size:238.28637695px;fill:#532c1e;fill-opacity:1;stroke:#532c1e;stroke-opacity:1"
-   id="tspan4755">K</tspan></tspan><tspan
-   id="tspan4664-3"
-   style="font-size:266.90167236px;letter-spacing:6.35266399px;fill:#532c1e;fill-opacity:1;stroke:#532c1e;stroke-width:6.71780205;stroke-opacity:1" /></tspan></text>
+             style="font-size:238.28637695px;letter-spacing:6.35266399px;fill:#532c1e;fill-opacity:1;stroke:#532c1e;stroke-width:6.71780205;stroke-opacity:1"
+             id="tspan4656-0">sprekK </tspan><tspan
+             id="tspan4660-9"
+             style="font-size:232.19190979px;letter-spacing:6.35266399px;fill:#532c1e;fill-opacity:1;stroke:#532c1e;stroke-width:6.71780205;stroke-opacity:1">!</tspan><tspan
+             id="tspan4664-3"
+             style="font-size:266.90167236px;letter-spacing:6.35266399px;fill:#532c1e;fill-opacity:1;stroke:#532c1e;stroke-width:6.71780205;stroke-opacity:1">!</tspan></tspan></text>
     </g>
   </g>
 </svg>

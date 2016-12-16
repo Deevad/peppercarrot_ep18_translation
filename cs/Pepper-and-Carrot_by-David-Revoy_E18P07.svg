@@ -213,47 +213,30 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-<<<<<<< HEAD
-     inkscape:window-width="1151"
-     inkscape:window-height="713"
-     id="namedview4"
-     showgrid="false"
-     inkscape:zoom="0.43439731"
-     inkscape:cx="824.4267"
-     inkscape:cy="-293.83082"
-     inkscape:window-x="54"
-     inkscape:window-y="-8"
-=======
-     inkscape:window-width="1600"
-     inkscape:window-height="858"
+     inkscape:window-width="1920"
+     inkscape:window-height="1024"
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.36732833"
-     inkscape:cx="1018.6798"
-     inkscape:cy="994.29512"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
->>>>>>> 01eeb1ff763ffc7b555b414a9f7f1ed20e25040d
+     inkscape:cx="1124.0298"
+     inkscape:cy="769.36473"
+     inkscape:window-x="-4"
+     inkscape:window-y="-4"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer5" />
+     inkscape:current-layer="layer8" />
   <g
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-<<<<<<< HEAD
-       sodipodi:absref="F:\pc\peppercarrot_ep18_translation\jb\..\gfx_Pepper-and-Carrot_by-David-Revoy_E18P07.png"
-       xlink:href="..\gfx_Pepper-and-Carrot_by-David-Revoy_E18P07.png"
-=======
-       sodipodi:absref="/mnt/bitcoin/peppercarrot_ep18_translation/jb/../gfx_Pepper-and-Carrot_by-David-Revoy_E18P07.png"
+       sodipodi:absref="C:\Documents and Settings\Katerina\Plocha\Feferonka a Karotka\Episode 18\cs\..\gfx_Pepper-and-Carrot_by-David-Revoy_E18P07.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E18P07.png"
->>>>>>> 01eeb1ff763ffc7b555b414a9f7f1ed20e25040d
-       y="0"
-       x="0"
-       id="image10"
+       width="2481"
        height="3503"
-       width="2481" />
+       id="image10"
+       x="0"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -304,7 +287,7 @@
      inkscape:label="speechbubbles">
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#f2f8d1;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
-       d="m 634.91716,613.24588 c -50.03429,-0.88323 -79.35143,-14.62549 -102.1394,-50.14482 -28.55579,-44.5096 -28.00587,-55.99172 -28.00587,-55.99172 l -34.96729,12.1252 c 0,0 47.97126,141.84647 165.11256,94.01134 z"
+       d="m 658.01715,603.62088 c -50.03429,-0.88323 -79.35143,-14.62549 -102.1394,-50.14482 -28.55579,-44.5096 -28.00587,-55.99172 -28.00587,-55.99172 l -34.96729,12.1252 c 0,0 47.97126,141.84647 165.11256,94.01134 z"
        id="path3072-0"
        inkscape:connector-curvature="0"
        inkscape:transform-center-x="132.43855"
@@ -318,7 +301,7 @@
        sodipodi:nodetypes="csssssc" />
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#f2f8d1;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
-       d="m 170.26969,461.53728 c -4.42876,-27.87365 35.39744,-129.92408 211.98187,-127.60957 176.58459,2.31452 217.0128,106.02405 217.6418,143.68346 0.62882,37.65942 -39.33388,99.86698 -64.71785,111.67492 -25.38399,11.80794 -91.77338,40.65902 -135.35532,37.19882 -43.58144,-3.46042 -105.92842,7.89147 -176.43444,-51.47117 -67.21122,-56.58842 -49.82464,-106.24105 -53.11606,-113.47646 z"
+       d="m 195.26012,448.11356 c -3.95288,-24.94241 31.59386,-116.26104 189.20364,-114.18992 157.60993,2.07112 193.69399,94.87437 194.2554,128.57345 0.56125,33.69908 -35.10731,89.36479 -57.76368,99.93098 -22.65639,10.5662 -81.912,36.38325 -120.8109,33.28693 -38.89845,-3.09652 -94.54603,7.06159 -157.47591,-46.05837 -59.98913,-50.63748 -44.4708,-95.06855 -47.40855,-101.54307 z"
        id="path3365"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="csssssc" />
@@ -330,7 +313,7 @@
        sodipodi:nodetypes="csssscssssssc" />
     <path
        style="fill:#ffffff;stroke:none"
-       d="m 1222.2824,1509.4425 c -1.9163,-34.0312 32.4425,-119.2248 200.0427,-112.8168 167.6004,6.408 220.0565,43.841 224.9679,104.3315 7.7698,95.6941 -80.4046,121.2668 -207.0151,128.3547 -130.5214,7.3071 -220.0212,-58.3805 -217.9955,-119.8694 z"
+       d="m 1260.7727,1509.4425 c -1.665,-34.0312 28.1866,-119.2248 173.801,-112.8168 145.6147,6.408 191.1896,43.841 195.4567,104.3315 6.7506,95.6941 -69.8571,121.2668 -179.8588,128.3547 -113.3997,7.3071 -191.159,-58.3805 -189.3989,-119.8694 z"
        id="path3280-8"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="csssc" />
@@ -397,7 +380,7 @@
     </g>
     <g
        id="g3487"
-       transform="matrix(1.0311685,0,0,1,-33.629633,0)">
+       transform="matrix(1.1800593,0,0,1,-175.0275,0)">
       <g
          style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1"
          transform="matrix(1.1175556,0.1528418,-0.22733454,1.1392281,200.31774,-1231.9554)"
@@ -529,44 +512,39 @@
            style="font-size:45px;fill:#b17d62;fill-opacity:1"
            x="387.83896"
            y="213.89122"
-           id="tspan3579">i se'o mi jo'u do ba</tspan><tspan
+           id="tspan3579">Mám takový pocit,</tspan><tspan
            sodipodi:role="line"
            style="font-size:45px;fill:#b17d62;fill-opacity:1"
            x="387.83896"
            y="270.14124"
-           id="tspan10910">simxu lo ka</tspan><tspan
+           id="tspan3463">že my dva spolu budeme</tspan><tspan
            sodipodi:role="line"
            style="font-size:45px;fill:#b17d62;fill-opacity:1"
-           x="387.83896"
+           x="395.74911"
            y="326.39124"
-           id="tspan10916">zabna pendo</tspan></text>
+           id="tspan3465">bezvadně vycházet! </tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#b17d62;fill-opacity:1;stroke:none"
-         x="381.7504"
-         y="414.81082"
+         x="377.7504"
+         y="430.81082"
          id="text4246-3"
          sodipodi:linespacing="125%"><tspan
            sodipodi:role="line"
            style="font-size:45px;fill:#b17d62;fill-opacity:1"
-           x="381.7504"
-           y="414.81082"
-           id="tspan10927">i sei clira mi</tspan><tspan
+           x="377.7504"
+           y="430.81082"
+           id="tspan3608">... a dokonce</tspan><tspan
            sodipodi:role="line"
            style="font-size:45px;fill:#b17d62;fill-opacity:1"
-           x="381.7504"
-           y="471.06082"
-           id="tspan10935">co'i jdice lo du'u</tspan><tspan
+           x="377.7504"
+           y="487.06082"
+           id="tspan3476">už i vím, jak ti</tspan><tspan
            sodipodi:role="line"
            style="font-size:45px;fill:#b17d62;fill-opacity:1"
-           x="381.7504"
-           y="527.31079"
-           id="tspan10937">do ba se cmene</tspan><tspan
-           sodipodi:role="line"
-           style="font-size:45px;fill:#b17d62;fill-opacity:1"
-           x="381.7504"
-           y="583.56079"
-           id="tspan10939">ma kau mi</tspan></text>
+           x="385.66055"
+           y="543.31079"
+           id="tspan3478">budu říkat! </tspan></text>
     </g>
     <g
        inkscape:groupmode="layer"
@@ -583,17 +561,17 @@
            style="font-size:45px"
            x="1439.0492"
            y="1460.3228"
-           id="tspan4432">uo</tspan><tspan
+           id="tspan4432">No?</tspan><tspan
            sodipodi:role="line"
            style="font-size:45px"
            x="1439.0492"
            y="1516.5728"
-           id="tspan3572">i gau ti do ma</tspan><tspan
+           id="tspan3572">Tak co ti to</tspan><tspan
            sodipodi:role="line"
            style="font-size:45px"
            x="1439.0492"
            y="1572.8228"
-           id="tspan10903">di'a morji</tspan></text>
+           id="tspan3456">připomíná?!</tspan></text>
       <path
          style="fill:#ffaaaa;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          d="m 1347.3841,1465.713 c -6.1661,-0.6043 -12.2829,-1.2282 -17.6459,-4.4763 -5.3631,-3.2479 -10.4479,-6.9343 -12.6483,-11.7348 -2.2004,-4.8005 -1.9587,-9.1873 0.4979,-12.6343 4.3915,-6.1618 11.0643,-7.0426 18.4647,-2.5465 0.5073,-8.0462 5.5262,-11.8792 11.8886,-11.5028 4.0087,0.2372 7.6504,1.8768 9.9663,6.0403 2.3159,4.1636 3.2827,10.0903 1.8717,16.6196 -1.411,6.5293 -9.2407,15.5895 -12.395,20.2348 z"
@@ -602,7 +580,7 @@
          sodipodi:nodetypes="cssscsssc" />
       <path
          style="fill:#ffaaaa;fill-opacity:1;fill-rule:evenodd;stroke:none"
-         d="m 1610.5111,1544.3536 c -2.9657,-2.9376 -5.8981,-5.865 -7.418,-9.9012 -1.5199,-4.0359 -2.7247,-8.1927 -1.9986,-11.7354 0.726,-3.5426 2.5588,-5.8267 5.1756,-6.6625 4.6777,-1.4942 8.4844,0.85 10.5761,6.4269 3.3949,-4.1626 7.492,-4.1243 10.6483,-1.2275 1.9886,1.8251 3.2409,4.2579 2.8227,7.5027 -0.4183,3.2449 -2.2231,6.8782 -5.4966,9.8333 -3.2736,2.955 -10.8643,4.5712 -14.3095,5.7637 z"
+         d="m 1587.4111,1534.7286 c -2.9657,-2.9376 -5.8981,-5.865 -7.418,-9.9012 -1.5199,-4.0359 -2.7247,-8.1927 -1.9986,-11.7354 0.726,-3.5426 2.5588,-5.8267 5.1756,-6.6625 4.6777,-1.4942 8.4844,0.85 10.5761,6.4269 3.3949,-4.1626 7.492,-4.1243 10.6483,-1.2275 1.9886,1.8251 3.2409,4.2579 2.8227,7.5027 -0.4183,3.2449 -2.2231,6.8782 -5.4966,9.8333 -3.2736,2.955 -10.8643,4.5712 -14.3095,5.7637 z"
          id="path4714-3"
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="cssscsssc" />
@@ -623,7 +601,7 @@
            id="tspan4192-5"
            x="2000.0305"
            y="2377.1411"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:4.36773443px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.80699992;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Gru</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:4.36773443px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.80699992;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Kruuu?</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.08092308px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:0.8;fill:#756b4a;fill-opacity:1;stroke:none;stroke-width:1.60000002;stroke-miterlimit:4;stroke-dasharray:none;filter:url(#filter4666);"
@@ -654,7 +632,7 @@
            id="tspan4215"
            x="2028.7821"
            y="2443.6147"
-           style="fill:#ffffff;stroke:#ffffff;stroke-width:3.82200003;stroke-miterlimit:4;stroke-dasharray:none">- fanmo -</tspan></text>
+           style="fill:#ffffff;stroke:#ffffff;stroke-width:3.82200003;stroke-miterlimit:4;stroke-dasharray:none">- KONEC -</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.79592609px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:#ffffff;filter:url(#filter5522)"
@@ -664,9 +642,9 @@
          sodipodi:linespacing="125%"><tspan
            sodipodi:role="line"
            style="font-size:36.73472214px;fill:#ffffff;stroke:#ffffff"
-           x="1240.0966"
+           x="1240.0964"
            y="3274.6868"
-           id="tspan4252-9">i de'i li nanca bu 2016 masti bu 8 i zoi zoi. www.peppercarrot.com.zoi. judri i finti fa la'o gy.David Revoy.gy. i la gleki cu fanva</tspan></text>
+           id="tspan4252-9">08/2016 - www.peppercarrot.com - Kresba a příběh: David Revoy - Překlad: Kateřina Fleknová</tspan></text>
       <text
          xml:space="preserve"
          style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.75px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:middle;display:inline;overflow:visible;visibility:visible;opacity:0.85500004;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;filter:url(#filter5546-3);enable-background:accumulate"
@@ -678,7 +656,7 @@
            style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.5px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:middle;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;enable-background:accumulate"
            x="1242.8344"
            y="3313.4661"
-           id="tspan4252-9-9-2">i lo se cfika cu se jicmu lo se finti be la'o gy.Craig Maloney.gy. i me le se finti fa la'e lu do zvafa'i mi i mi zvafa'i do li'u fa la'e lu vitke fa lo te makfa pe la rarna li'u</tspan></text>
+           id="tspan4252-9-9-2">Příběh inspirován dvěma scénáři navrhnutými Craigem Maloneym: &quot;You found me, I Chose You&quot; a &quot;Visit from Hippiah&quot;.</tspan></text>
       <text
          xml:space="preserve"
          style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.75px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:middle;display:inline;overflow:visible;visibility:visible;opacity:0.85500004;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;filter:url(#filter5546);enable-background:accumulate"
@@ -690,12 +668,7 @@
            style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.5px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:middle;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;enable-background:accumulate"
            x="1242.353"
            y="3350.7795"
-           id="tspan4252-9-9">i skicu lo munje poi du la erevas i la'o gy.Craig Maloney.gy. sidju i cikre fa la'o gy.Willem Sonke.gy. e la'o gy.Moini.gy. e la'o gy.Hali.gy. e la'o gy.CGand.gy. e la'o gy.Alex Gryson.gy.</tspan><tspan
-           sodipodi:role="line"
-           style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.5px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:middle;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;enable-background:accumulate"
-           x="1242.353"
-           y="3385.1545"
-           id="tspan11538" /></text>
+           id="tspan4252-9-9">Založené na světě Herevy, vytvořeném Davidem Revoyem s pomocí Craiga Maloneyho. Korekce: Willem Sonke, Moini, Hali, CGand a Alex Gryson.</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.72782516px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:0.85500004;fill:#ffffff;fill-opacity:1;stroke:#ffffff;filter:url(#filter5558)"
@@ -707,7 +680,7 @@
            x="1240.6473"
            y="3388.5505"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.5px;font-family:Lavi;-inkscape-font-specification:Lavi;fill:#ffffff;stroke:#ffffff"
-           id="tspan4169">i jaspu fa la'o gy.Creative Commons Attribution 4.0.gy. i proga fa la'o gy.Krita 3.0.gy. e la'o gy.Inkscape 0.91.gy. jo'u bo la'o gy.Manjaro XFCE.gy.</tspan></text>
+           id="tspan4169">Licence: Creative Commons Attribution 4.0, Software: Krita 3.0, Inkscape 0.91 na Manjaro XFCE</tspan></text>
     </g>
   </g>
 </svg>

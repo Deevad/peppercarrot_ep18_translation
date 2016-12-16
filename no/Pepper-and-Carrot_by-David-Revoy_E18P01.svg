@@ -166,15 +166,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1600"
-     inkscape:window-height="858"
+     inkscape:window-width="1855"
+     inkscape:window-height="1056"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.26121532"
-     inkscape:cx="1051.8793"
-     inkscape:cy="474.84705"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:zoom="0.16937499"
+     inkscape:cx="1094.8549"
+     inkscape:cy="568.83336"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer7"
      showguides="false" />
@@ -184,13 +184,13 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/mnt/bitcoin/peppercarrot_ep18_translation/jb/../gfx_Pepper-and-Carrot_by-David-Revoy_E18P01.png"
+       sodipodi:absref="/home/thomas/Data/Copy/PepperCarrot/Git/peppercarrot_ep18_translation/no/../gfx_Pepper-and-Carrot_by-David-Revoy_E18P01.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E18P01.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -240,13 +240,13 @@
        id="path4212" />
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
-       d="m 190.21154,1224.0346 c 8.33646,-61.5309 92.11704,-106.5427 306.67778,-94.9508 114.93028,6.209 245.51165,10.2857 234.63461,100.4242 -10.87718,90.1384 -198.65745,87.8076 -237.49083,89.9126 -38.83338,2.1053 -240.55622,-7.3622 -275.07651,-38.0269 -21.6089,-19.1954 -29.87552,-38.3026 -28.74505,-57.3591 z"
+       d="m 167.25014,1224.0346 c 8.33646,-61.5309 138.03984,-106.5427 352.60058,-94.9508 114.93028,6.209 245.51165,10.2857 234.63461,100.4242 -10.87718,90.1384 -221.61885,87.8076 -260.45223,89.9126 -38.83338,2.1053 -263.51762,-7.3622 -298.03791,-38.0269 -21.6089,-19.1954 -29.87552,-38.3026 -28.74505,-57.3591 z"
        id="path4546-6"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cssssc" />
     <path
        style="fill:#ffffff;stroke:none"
-       d="m 352.91352,1420.0742 c 9.28549,-90.3188 31.3233,-106.2001 73.69356,-124.1324 52.88998,-22.3845 247.82141,-22.3649 307.14882,-18.9643 76.2542,4.3709 142.90217,24.5289 172.3062,72.3447 29.40414,47.8157 14.59796,178.0629 -53.49582,208.6119 -68.09353,30.549 -236.00294,52.9588 -331.79344,26.0709 -96.9096,-27.202 -160.9678,-43.2885 -167.85932,-163.9308 z"
+       d="m 277.76711,1417.9868 c 9.28549,-90.3188 106.46971,-104.1127 148.83997,-122.045 52.88998,-22.3845 247.82141,-22.3649 307.14882,-18.9643 76.2542,4.3709 142.90217,24.5289 172.3062,72.3447 29.40414,47.8157 60.52076,201.0243 -7.57302,231.5733 -68.09353,30.549 -436.39335,46.6966 -532.18385,19.8087 -96.9096,-27.202 -81.6466,-62.0751 -88.53812,-182.7174 z"
        id="path3021"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="csssssc" />
@@ -270,17 +270,17 @@
      style="display:inline">
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.08092308px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:0.8;fill:#756b4a;fill-opacity:1;stroke:none;stroke-width:1.60000002;stroke-miterlimit:4;stroke-dasharray:none;filter:url(#filter4666);"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.08092308px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:0.8;fill:#756b4a;fill-opacity:1;stroke:none;stroke-width:1.60000002;stroke-miterlimit:4;stroke-dasharray:none;filter:url(#filter4666)"
        x="2176.2036"
        y="1681.5674"
        id="text4246-7-2"
        sodipodi:linespacing="125%"
        transform="matrix(0.86912926,0.02259503,-0.19378922,0.97539956,251.76358,557.50996)"><tspan
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.05346298px;font-family:Fondamento;-inkscape-font-specification:Fondamento;fill:#756b4a;fill-opacity:1;stroke:#756b4a;stroke-width:1.2107898;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.05346298px;font-family:Fondamento;-inkscape-font-specification:Fondamento;fill:#756b4a;fill-opacity:1;stroke:#756b4a;stroke-width:1.2107898;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          x="2176.2036"
          y="1681.5674"
-         id="tspan4342-8">HIPPIAH</tspan></text>
+         id="tspan4342-8">HIPPIA</tspan></text>
     <g
        inkscape:groupmode="layer"
        id="layer5"
@@ -288,20 +288,22 @@
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
-         x="623.07001"
-         y="504.60626"
+         x="619.9389"
+         y="519.21808"
          id="text4246"
          sodipodi:linespacing="125%"><tspan
            sodipodi:role="line"
            style="font-size:45px"
-           x="623.07001"
-           y="504.60626"
-           id="tspan4144">i e'a bu'o</tspan><tspan
+           x="619.9389"
+           y="519.21808"
+           id="tspan4252">Det er greit,</tspan><tspan
            sodipodi:role="line"
            style="font-size:45px"
-           x="623.07001"
-           y="560.85626"
-           id="tspan5910">do catlu</tspan></text>
+           x="619.9389"
+           y="575.46808"
+           id="tspan4144">n<tspan
+   style="font-size:40px"
+   id="tspan4313">å</tspan> kan du se!</tspan></text>
     </g>
     <g
        inkscape:groupmode="layer"
@@ -310,16 +312,16 @@
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.31480217px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.5;stroke-miterlimit:4;stroke-dasharray:none"
-         x="469.55936"
+         x="484.70694"
          y="1031.3483"
          id="text4246-3"
          sodipodi:linespacing="125%"
          transform="scale(0.92423441,1.0819766)"><tspan
            sodipodi:role="line"
            style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:68.68051147px;font-family:Lavi;-inkscape-font-specification:'Lavi Italic';stroke:#000000;stroke-width:3.81558394;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           x="469.55936"
+           x="484.70694"
            y="1031.3483"
-           id="tspan4252-6">uo uo dai</tspan></text>
+           id="tspan4252-6">TA~DAA~~A !</tspan></text>
       <path
          inkscape:connector-curvature="0"
          id="path3"
@@ -343,48 +345,64 @@
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
-         x="459.51602"
-         y="1211.9476"
+         x="451.16641"
+         y="1209.4181"
          id="text4246-7"
          sodipodi:linespacing="125%"><tspan
            sodipodi:role="line"
            style="font-size:45px"
-           x="459.51602"
-           y="1211.9476"
-           id="tspan4342">i fadni se dasni</tspan><tspan
+           x="451.16641"
+           y="1209.4181"
+           id="tspan4342">Bekledningen til en</tspan><tspan
            sodipodi:role="line"
            style="font-size:45px"
-           x="459.51602"
-           y="1268.1976"
-           id="tspan5912">lo te makfa pe la rarna</tspan></text>
+           x="451.16641"
+           y="1265.6681"
+           id="tspan4311">Hippiaheks!</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
-         x="642.27008"
-         y="1367.3761"
+         x="605.74054"
+         y="1381.9879"
          id="text4246-7-0"
          sodipodi:linespacing="125%"><tspan
            sodipodi:role="line"
            style="font-size:45px"
-           x="642.27008"
-           y="1367.3761"
-           id="tspan3670">i no drata pu se vecnu</tspan><tspan
+           x="605.74054"
+           y="1381.9879"
+           id="tspan4269">Jeg fikk med meg dette</tspan><tspan
            sodipodi:role="line"
            style="font-size:45px"
-           x="650.18024"
-           y="1423.6261"
-           id="tspan5927">bu'u lo zarci i se ki'u bo </tspan><tspan
+           x="605.74054"
+           y="1438.2379"
+           id="tspan4293">midlertidig, mens jeg venter</tspan><tspan
            sodipodi:role="line"
            style="font-size:45px"
-           x="642.27008"
-           y="1479.8761"
-           id="tspan5939">mi cpacu ti i a'o lo cnino</tspan><tspan
+           x="605.74054"
+           y="1494.4879"
+           id="tspan4297">p<tspan
+   style="font-size:40px"
+   id="tspan4303">å</tspan> at butikken skal f<tspan
+   style="font-size:40px"
+   id="tspan4305">å</tspan> inn de</tspan><tspan
            sodipodi:role="line"
            style="font-size:45px"
-           x="642.27008"
-           y="1536.1261"
-           id="tspan5947">pastu ba zi zvati ti</tspan></text>
-    </g>
+           x="605.74054"
+           y="1550.7379"
+           id="tspan4301">nye k<tspan
+   style="font-size:40px"
+   id="tspan4307">å</tspan>pene og hattene mine!</tspan></text>
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot4271"
+         style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:35px;line-height:125%;letter-spacing:0px;word-spacing:4.05000019px"><flowRegion
+           id="flowRegion4273"><rect
+             id="rect4275"
+             width="726.41528"
+             height="256.75021"
+             x="751.46405"
+             y="1309.1423" /></flowRegion><flowPara
+           id="flowPara4277"></flowPara></flowRoot>    </g>
     <g
        inkscape:groupmode="layer"
        id="layer7"
@@ -400,17 +418,17 @@
            style="font-size:45px"
            x="363.69086"
            y="2694.7598"
-           id="tspan4432">  i mo i pei</tspan><tspan
+           id="tspan4432">Vel?</tspan><tspan
            sodipodi:role="line"
            style="font-size:45px"
            x="363.69086"
            y="2751.0098"
-           id="tspan5956">do da gau ti</tspan><tspan
+           id="tspan3679">Minner dette deg</tspan><tspan
            sodipodi:role="line"
            style="font-size:45px"
            x="363.69086"
            y="2807.2598"
-           id="tspan3679">di'a morji</tspan></text>
+           id="tspan4325">om noe?...</tspan></text>
       <path
          style="fill:#ffaaaa;fill-opacity:1;fill-rule:evenodd;stroke:none"
          d="m 256.41049,2710.4384 c -6.16611,-0.6043 -12.28289,-1.2282 -17.64595,-4.4763 -5.36306,-3.2479 -10.44782,-6.9343 -12.64824,-11.7348 -2.20042,-4.8005 -1.95875,-9.1873 0.49792,-12.6343 4.39147,-6.1618 11.06428,-7.0426 18.46462,-2.5465 0.50734,-8.0462 5.52625,-11.8792 11.88868,-11.5028 4.00868,0.2372 7.65038,1.8768 9.96626,6.0403 2.31589,4.1636 3.28269,10.0903 1.8717,16.6196 -1.41098,6.5293 -9.24073,15.5895 -12.39499,20.2348 z"
@@ -419,7 +437,7 @@
          sodipodi:nodetypes="cssscsssc" />
       <path
          style="fill:#ffaaaa;fill-opacity:1;fill-rule:evenodd;stroke:none"
-         d="m 489.11454,2800.9169 c -2.96566,-2.9376 -5.89807,-5.865 -7.41796,-9.9012 -1.51989,-4.0359 -2.72471,-8.1927 -1.99865,-11.7354 0.72604,-3.5426 2.55883,-5.8267 5.17566,-6.6625 4.67772,-1.4942 8.48442,0.85 10.57612,6.4269 3.39487,-4.1626 7.49197,-4.1243 10.64826,-1.2275 1.98859,1.8251 3.2409,4.2579 2.82268,7.5027 -0.41825,3.2449 -2.22303,6.8782 -5.4966,9.8333 -3.2736,2.955 -10.86423,4.5712 -14.30951,5.7637 z"
+         d="m 542.25584,2790.5734 c -2.96566,-2.9376 -5.89807,-5.865 -7.41796,-9.9012 -1.51989,-4.0359 -2.72471,-8.1927 -1.99865,-11.7354 0.72604,-3.5426 2.55883,-5.8267 5.17566,-6.6625 4.67772,-1.4942 8.48442,0.85 10.57612,6.4269 3.39487,-4.1626 7.49197,-4.1243 10.64826,-1.2275 1.98859,1.8251 3.2409,4.2579 2.82268,7.5027 -0.41825,3.2449 -2.22303,6.8782 -5.4966,9.8333 -3.2736,2.955 -10.86423,4.5712 -14.30951,5.7637 z"
          id="path4714-3"
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="cssscsssc" />
