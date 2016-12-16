@@ -15,7 +15,7 @@
    inkscape:version="0.91 r13725"
    width="2481"
    height="3503"
-   sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E18P07.svg">
+   sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E18P07-.svg">
   <metadata
      id="metadata8">
     <rdf:RDF>
@@ -24,7 +24,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -213,27 +213,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-<<<<<<< HEAD
-     inkscape:window-width="1151"
-     inkscape:window-height="713"
+     inkscape:window-width="1920"
+     inkscape:window-height="1042"
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.43439731"
-     inkscape:cx="824.4267"
-     inkscape:cy="-293.83082"
-     inkscape:window-x="54"
-     inkscape:window-y="-8"
-=======
-     inkscape:window-width="1600"
-     inkscape:window-height="858"
-     id="namedview4"
-     showgrid="false"
-     inkscape:zoom="0.36732833"
-     inkscape:cx="1018.6798"
-     inkscape:cy="994.29512"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
->>>>>>> 01eeb1ff763ffc7b555b414a9f7f1ed20e25040d
+     inkscape:cx="1387.2755"
+     inkscape:cy="2381.1397"
+     inkscape:window-x="1920"
+     inkscape:window-y="23"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer5" />
   <g
@@ -242,18 +230,13 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-<<<<<<< HEAD
-       sodipodi:absref="F:\pc\peppercarrot_ep18_translation\jb\..\gfx_Pepper-and-Carrot_by-David-Revoy_E18P07.png"
+       sodipodi:absref="/home/deevad/peppercarrot/webcomics/ep18_The-Encounter/lang/jb/../gfx_Pepper-and-Carrot_by-David-Revoy_E18P07.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E18P07.png"
-=======
-       sodipodi:absref="/mnt/bitcoin/peppercarrot_ep18_translation/jb/../gfx_Pepper-and-Carrot_by-David-Revoy_E18P07.png"
-       xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E18P07.png"
->>>>>>> 01eeb1ff763ffc7b555b414a9f7f1ed20e25040d
-       y="0"
-       x="0"
-       id="image10"
+       width="2481"
        height="3503"
-       width="2481" />
+       id="image10"
+       x="0"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
