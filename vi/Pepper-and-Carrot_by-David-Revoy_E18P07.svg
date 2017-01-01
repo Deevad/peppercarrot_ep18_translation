@@ -219,11 +219,11 @@
      showgrid="false"
      inkscape:zoom="0.51948071"
      inkscape:cx="1287.7376"
-     inkscape:cy="477.231"
+     inkscape:cy="539.89996"
      inkscape:window-x="0"
-     inkscape:window-y="66"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="layer8" />
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer5" />
   <g
      inkscape:groupmode="layer"
      id="layer2"
@@ -232,11 +232,11 @@
     <image
        sodipodi:absref="/Users/su_huynh/Downloads/peppercarrot_ep18_translation-master/vi/../gfx_Pepper-and-Carrot_by-David-Revoy_E18P07.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E18P07.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -534,12 +534,12 @@
            style="font-size:45px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;fill:#b17d62;fill-opacity:1;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c Medium'"
            x="377.7504"
            y="430.81082"
-           id="tspan3608">... và có sẵn</tspan><tspan
+           id="tspan3608">... và tôi có</tspan><tspan
            sodipodi:role="line"
            style="font-size:45px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;fill:#b17d62;fill-opacity:1;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c Medium'"
            x="377.7504"
            y="487.06082"
-           id="tspan21441">ý kiến đặt</tspan><tspan
+           id="tspan21441">sẵn ý kiến đặt</tspan><tspan
            sodipodi:role="line"
            style="font-size:45px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;fill:#b17d62;fill-opacity:1;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c Medium'"
            x="383.99063"

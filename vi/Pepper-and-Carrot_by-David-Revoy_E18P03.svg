@@ -49,7 +49,7 @@
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
-     inkscape:current-layer="layer8" />
+     inkscape:current-layer="layer7" />
   <g
      inkscape:groupmode="layer"
      id="layer2"
@@ -58,11 +58,11 @@
     <image
        sodipodi:absref="/Users/su_huynh/Downloads/peppercarrot_ep18_translation-master/vi/../gfx_Pepper-and-Carrot_by-David-Revoy_E18P03.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E18P03.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -244,7 +244,7 @@
            style="font-size:45px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;fill:#b17d62;fill-opacity:1;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c Medium'"
            x="1266.8469"
            y="1432.3241"
-           id="tspan4278">Ngưng tôi...</tspan></text>
+           id="tspan4278">Nhưng tôi...</tspan></text>
     </g>
     <g
        inkscape:groupmode="layer"

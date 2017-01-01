@@ -170,9 +170,9 @@
      inkscape:window-height="752"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.26121532"
-     inkscape:cx="1533.2201"
-     inkscape:cy="1367.0175"
+     inkscape:zoom="0.36941425"
+     inkscape:cx="1199.0505"
+     inkscape:cy="865.97758"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
@@ -186,11 +186,11 @@
     <image
        sodipodi:absref="/Users/su_huynh/Downloads/peppercarrot_ep18_translation-master/vi/../gfx_Pepper-and-Carrot_by-David-Revoy_E18P01.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E18P01.png"
-       y="0"
-       x="0"
-       id="image10"
+       width="2481"
        height="3503"
-       width="2481" />
+       id="image10"
+       x="0"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -258,7 +258,7 @@
        sodipodi:nodetypes="csssscssssssc" />
     <path
        style="fill:#ffffff;stroke:none"
-       d="m 137.56224,2735.3308 c -2.16913,-32.8199 32.27359,-106.4985 221.98931,-100.3185 189.71582,6.1799 233.07482,42.2807 238.63435,100.6181 8.7948,92.2882 -110.4141,119.3663 -253.91034,119.5451 -209.15053,0.2606 -209.00631,-60.5442 -206.71332,-119.8447 z"
+       d="m 187.24644,2735.3308 c -1.73728,-32.8199 25.84836,-106.4985 177.79423,-100.3185 151.94595,6.1799 186.67275,42.2807 191.12546,100.6181 7.04387,92.2882 -88.43214,119.3663 -203.36021,119.5451 -167.51147,0.2606 -167.39596,-60.5442 -165.55948,-119.8447 z"
        id="path3280-8"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="csssc" />
@@ -405,12 +405,12 @@
            style="font-size:45px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c Medium'"
            x="363.69086"
            y="2751.0098"
-           id="tspan3679">Bộ này nhấc</tspan><tspan
+           id="tspan3679">Bộ này nhắc cái</tspan><tspan
            sodipodi:role="line"
            style="font-size:45px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c Medium'"
            x="363.69086"
            y="2807.2598"
-           id="tspan18752">nhớ gì không ?...</tspan></text>
+           id="tspan18752">gì không ?...</tspan></text>
       <path
          style="fill:#ffaaaa;fill-opacity:1;fill-rule:evenodd;stroke:none"
          d="m 256.41049,2710.4384 c -6.16611,-0.6043 -12.28289,-1.2282 -17.64595,-4.4763 -5.36306,-3.2479 -10.44782,-6.9343 -12.64824,-11.7348 -2.20042,-4.8005 -1.95875,-9.1873 0.49792,-12.6343 4.39147,-6.1618 11.06428,-7.0426 18.46462,-2.5465 0.50734,-8.0462 5.52625,-11.8792 11.88868,-11.5028 4.00868,0.2372 7.65038,1.8768 9.96626,6.0403 2.31589,4.1636 3.28269,10.0903 1.8717,16.6196 -1.41098,6.5293 -9.24073,15.5895 -12.39499,20.2348 z"
@@ -419,7 +419,7 @@
          sodipodi:nodetypes="cssscsssc" />
       <path
          style="fill:#ffaaaa;fill-opacity:1;fill-rule:evenodd;stroke:none"
-         d="m 542.25584,2790.5734 c -2.96566,-2.9376 -5.89807,-5.865 -7.41796,-9.9012 -1.51989,-4.0359 -2.72471,-8.1927 -1.99865,-11.7354 0.72604,-3.5426 2.55883,-5.8267 5.17566,-6.6625 4.67772,-1.4942 8.48442,0.85 10.57612,6.4269 3.39487,-4.1626 7.49197,-4.1243 10.64826,-1.2275 1.98859,1.8251 3.2409,4.2579 2.82268,7.5027 -0.41825,3.2449 -2.22303,6.8782 -5.4966,9.8333 -3.2736,2.955 -10.86423,4.5712 -14.30951,5.7637 z"
+         d="m 510.25584,2790.5734 c -2.96566,-2.9376 -5.89807,-5.865 -7.41796,-9.9012 -1.51989,-4.0359 -2.72471,-8.1927 -1.99865,-11.7354 0.72604,-3.5426 2.55883,-5.8267 5.17566,-6.6625 4.67772,-1.4942 8.48442,0.85 10.57612,6.4269 3.39487,-4.1626 7.49197,-4.1243 10.64826,-1.2275 1.98859,1.8251 3.2409,4.2579 2.82268,7.5027 -0.41825,3.2449 -2.22303,6.8782 -5.4966,9.8333 -3.2736,2.955 -10.86423,4.5712 -14.30951,5.7637 z"
          id="path4714-3"
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="cssscsssc" />
