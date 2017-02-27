@@ -53,15 +53,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1017"
+     inkscape:window-width="1440"
+     inkscape:window-height="811"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.5586605"
-     inkscape:cx="1456.5553"
-     inkscape:cy="2916.5466"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:zoom="0.39503263"
+     inkscape:cx="1355.2978"
+     inkscape:cy="1903.972"
+     inkscape:window-x="0"
+     inkscape:window-y="1"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer9" />
   <g
@@ -70,13 +70,13 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="C:\work\git\peppercarrot_ep18_translation\de\..\gfx_Pepper-and-Carrot_by-David-Revoy_E18P05.png"
+       sodipodi:absref="/home/deevad/peppercarrot/webcomics/ep18_The-Encounter/lang/de/../gfx_Pepper-and-Carrot_by-David-Revoy_E18P05.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E18P05.png"
-       y="0"
-       x="0"
-       id="image10"
+       width="2481"
        height="3503"
-       width="2481" />
+       id="image10"
+       x="0"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -231,7 +231,7 @@
            style="font-size:45px;fill:#b17d62;fill-opacity:1;stroke:none"
            x="1600.4674"
            y="209.15082"
-           id="tspan4179">Wie der Zufall so will</tspan><tspan
+           id="tspan4179">Wie der Zufall so will,</tspan><tspan
            sodipodi:role="line"
            style="font-size:45px;fill:#b17d62;fill-opacity:1;stroke:none"
            x="1600.4674"
@@ -314,7 +314,7 @@
            style="font-size:31.45743942px;fill:#b17d62;fill-opacity:1;stroke:none"
            x="677.60773"
            y="1768.4436"
-           id="tspan4492">... es ist unmöglich!</tspan></text>
+           id="tspan4492">... das ist nicht möglich!</tspan></text>
       <text
          sodipodi:linespacing="125%"
          id="text4178-6-5-9-0-7-0-4"
