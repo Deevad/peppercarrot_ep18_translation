@@ -166,17 +166,17 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1042"
+     inkscape:window-width="1440"
+     inkscape:window-height="811"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.7746422"
-     inkscape:cx="1042.0158"
-     inkscape:cy="1300.2378"
+     inkscape:zoom="0.3873211"
+     inkscape:cx="1248.5628"
+     inkscape:cy="1713.3317"
      inkscape:window-x="0"
-     inkscape:window-y="23"
+     inkscape:window-y="1"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer6"
      showguides="false" />
   <g
      inkscape:groupmode="layer"
@@ -186,11 +186,11 @@
     <image
        sodipodi:absref="/home/deevad/peppercarrot/webcomics/ep18_The-Encounter/lang/de/../gfx_Pepper-and-Carrot_by-David-Revoy_E18P01.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E18P01.png"
-       y="0"
-       x="0"
-       id="image10"
+       width="2481"
        height="3503"
-       width="2481" />
+       id="image10"
+       x="0"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -351,7 +351,7 @@
            style="font-size:45px"
            x="459.51602"
            y="1245.9476"
-           id="tspan4342">Eine Hippiāh Hexenrobe!</tspan></text>
+           id="tspan4342">Eine Hippiāh-Hexenrobe!</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
@@ -363,22 +363,22 @@
            style="font-size:45px"
            x="642.27008"
            y="1367.3761"
-           id="tspan3409">Sie hatte keine Anderen</tspan><tspan
+           id="tspan3411">Es war die letzte,</tspan><tspan
            sodipodi:role="line"
            style="font-size:45px"
-           x="650.18024"
+           x="642.27008"
            y="1423.6261"
-           id="tspan3670">mehr im Laden. Ich habe </tspan><tspan
+           id="tspan3425">ich hab sie genommen,</tspan><tspan
            sodipodi:role="line"
            style="font-size:45px"
            x="642.27008"
            y="1479.8761"
-           id="tspan3420">sie gekauft bis meine</tspan><tspan
+           id="tspan3413">bis der Laden meine Roben</tspan><tspan
            sodipodi:role="line"
            style="font-size:45px"
            x="642.27008"
            y="1536.1261"
-           id="tspan3422">neue Robe fertig ist!</tspan></text>
+           id="tspan3421">wieder reinbekommt.</tspan></text>
     </g>
     <g
        inkscape:groupmode="layer"
